@@ -1,0 +1,40 @@
+{
+  "title": "Astronaut and Spaceflight Participant Archive (ASPA)",
+  "upload_type": "dataset",
+  "publication_type": "dataset",
+  "creators": [
+    {
+      "name": "Kanikkannan, Lakshmi",
+      "affiliation": "Mortality Research & Consulting, Inc."
+    },
+    {
+      "name": "Hogan, Katie",
+      "affiliation": "Baylor College of Medicine"
+    },
+    {
+      "name": "Reynolds, Robert J.",
+      "affiliation": "Mortality Research & Consulting, Inc. / OSMED",
+      "orcid": "https://orcid.org/0000-0003-1070-8996"  
+    }
+  ],
+  "description": "The Astronaut and Spaceflight Participant Archive (ASPA) is a structured dataset covering all known orbital human space travelers from 1959 through 2023. It includes curated biographical, demographic, and mission data to support research in space medicine, life sciences, and policy analysis. This dataset is designed as a public research asset and is described in the accompanying peer-reviewed article.",
+  "license": "odc-by",
+  "keywords": [
+    "astronauts",
+    "spaceflight",
+    "space medicine",
+    "epidemiology",
+    "database",
+    "human spaceflight"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.xxxx/journal.xxx",  // Replace with real DOI when available
+      "relation": "isDescribedBy",
+      "scheme": "doi"
+    }
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "access_right": "open"
+}

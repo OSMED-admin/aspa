@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this dataset or its methodology, please cite both the ASPA dataset and the accompanying article."
+title: "Astronaut and Spaceflight Participant Archive (ASPA)"
+authors:
+  - family-names: Kanikkannan
+    given-names: Lakshmi
+    affiliation: OSMED
+  - family-names: Hogan
+    given-names: Katie
+    affiliation: OSMED
+  - family-names: Reynolds
+    given-names: Robert J
+    affiliation: OSMED
+    orcid: https://orcid.org/0000-0000-0000-0000  # Replace if available
+date-released: 2025-06-06
+version: "1.0"
+doi: "10.5281/zenodo.xxxxxxx"  # Replace with final Zenodo DOI
+preferred-citation:
+  type: article
+  title: "Construction of the Astronaut and Spaceflight Participant Archive (ASPA): A Public Database for Human Spaceflight Research"
+  authors:
+    - family-names: Kanikkannan
+      given-names: Lakshmi
+    - family-names: Hogan
+      given-names: Katie
+    - family-names: Reynolds
+      given-names: Robert J
+  journal: "Journal Name"
+  year: 2025
+  doi: "10.xxxx/journal.xxx"  # Replace with article DOI
+license: "ODC-By-1.0"
+keywords:
+  - astronauts
+  - spaceflight
+  - epidemiology
+  - space medicine
+  - human spaceflight
+type: dataset
