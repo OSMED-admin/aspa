@@ -1,34 +1,23 @@
 cff-version: 1.2.0
 message: "If you use this dataset or its methodology, please cite both the ASPA dataset and the accompanying article."
-title: "Astronaut and Spaceflight Participant Archive (ASPA)"
+title: Astronaut and Spaceflight Participant Archive (ASPA)
+version: "1.0"
+date-released: 2025-06-06
 authors:
   - family-names: Kanikkannan
     given-names: Lakshmi
     affiliation: OSMED
+    orcid: https://orcid.org/0000-0002-9076-8659
   - family-names: Hogan
     given-names: Katie
     affiliation: OSMED
+    orcid: https://orcid.org/0000-0003-1244-4541
   - family-names: Reynolds
     given-names: Robert J
     affiliation: OSMED
-    orcid: https://orcid.org/0000-0000-0000-0000  # Replace if available
-date-released: 2025-06-06
-version: "1.0"
-doi: "10.5281/zenodo.xxxxxxx"  # Replace with final Zenodo DOI
-preferred-citation:
-  type: article
-  title: "Construction of the Astronaut and Spaceflight Participant Archive (ASPA): A Public Database for Human Spaceflight Research"
-  authors:
-    - family-names: Kanikkannan
-      given-names: Lakshmi
-    - family-names: Hogan
-      given-names: Katie
-    - family-names: Reynolds
-      given-names: Robert J
-  journal: "Journal Name"
-  year: 2025
-  doi: "10.xxxx/journal.xxx"  # Replace with article DOI
-license: "ODC-By-1.0"
+    orcid: https://orcid.org/0000-0003-1070-8996
+license: ODC-By-1.0
+repository-code: https://github.com/OSMED-admin/aspa
 keywords:
   - astronauts
   - spaceflight
@@ -36,3 +25,16 @@ keywords:
   - space medicine
   - human spaceflight
 type: dataset
+preferred-citation:
+  type: article
+  title: Construction of the Astronaut and Spaceflight Participant Archive (ASPA): A Public Database for Human Spaceflight Research
+  authors:
+    - family-names: Kanikkannan
+      given-names: Lakshmi
+    - family-names: Hogan
+      given-names: Katie
+    - family-names: Reynolds
+      given-names: Robert J.
+  journal: Journal Name
+  year: 2025
+  doi: 10.xxxx/journal.xxx  # Replace with actual article DOI when available
