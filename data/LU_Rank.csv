@@ -1,0 +1,13 @@
+RankID,ArmyRank,NavyRank,RussianAirForce
+-8,Civilian,Civilian,Civilian
+0,Enlisted,Enlisted,Jr. Lieutenant
+1,2nd Lieutenant,Ensign,Lieutenant
+2,1st Lieutenant,Lieutenant Junior Grade,Senior Lieutenant
+3,Captain,Lieutenant,Captain
+4,Major,Lt. Commander,Major
+5,Lt. Colonel,Commander,Lt. Colonel
+6,Colonel,Captain,Colonel
+7,Brigadier General,Rear Admiral (lower half),Major General
+8,Major General,Rear Admiral (upper half),Lieutenant General
+9,Lieutenant General,Vice Admiral,Colonel Geneal
+10,General,Admiral Chief of Naval Op,General of the Army
