@@ -1,40 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this dataset or its methodology, please cite both the ASPA dataset and the accompanying article."
 title: Astronaut and Spaceflight Participant Archive (ASPA)
-version: "1.0"
-date-released: 2025-06-06
-authors:
-  - family-names: Kanikkannan
-    given-names: Lakshmi
-    affiliation: OSMED
-    orcid: https://orcid.org/0000-0002-9076-8659
-  - family-names: Hogan
-    given-names: Katie
-    affiliation: OSMED
-    orcid: https://orcid.org/0000-0003-1244-4541
-  - family-names: Reynolds
-    given-names: Robert J
-    affiliation: OSMED
-    orcid: https://orcid.org/0000-0003-1070-8996
-license: ODC-By-1.0
-repository-code: https://github.com/OSMED-admin/aspa
-keywords:
-  - astronauts
-  - spaceflight
-  - epidemiology
-  - space medicine
-  - human spaceflight
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
 type: dataset
-preferred-citation:
-  type: article
-  title: Construction of the Astronaut and Spaceflight Participant Archive (ASPA): A Public Database for Human Spaceflight Research
-  authors:
-    - family-names: Kanikkannan
-      given-names: Lakshmi
-    - family-names: Hogan
-      given-names: Katie
-    - family-names: Reynolds
-      given-names: Robert J.
-  journal: Journal Name
-  year: 2025
-  doi: 10.xxxx/journal.xxx  # Replace with actual article DOI when available
+authors:
+  - given-names: Lakshmi
+    family-names: Kanikkannan
+    name-suffix: MS
+    email: lakshmi_kanikkannan@outlook.com
+    orcid: 'https://orcid.org/0000-0002-9076-8659'
+  - given-names: Katie
+    family-names: Hogan
+    name-suffix: MD PhD
+    orcid: 'https://orcid.org/0000-0003-1244-4541'
+  - given-names: Robert
+    family-names: Reynolds
+    orcid: 'https://orcid.org/0000-0003-1070-8996'
+    email: robert.reynolds@osmed.org
+repository-code: 'https://github.com/OSMED-admin/aspa/'
+abstract: >-
+  The Astronaut and Spaceflight Participant Archive (ASPA)
+  is a database of people, organizations, missions and more
+  all related to human spaceflight. The data archive is
+  intended to be useful for epidemiological and historical
+  investigations.
+keywords:
+  - space
+  - astronaut
+  - epidemiology
+  - occupational health
+  - biographical data
+  - vital data
+license: ODC-By-1.0
+version: '1.1'
+date-released: '2025-07-18'
