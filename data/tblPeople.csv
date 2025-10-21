@@ -1,132 +1,21 @@
 PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Branch,Rank,Pilot,PrimaryNationality_Birth Citizen,SecondNationality,ThirdNationality,HighestEd,Educat,MedicalDoctor,DOB,Died,DOD,COD,COD_Group,COD_Group2
-820,Gezeravci,Alper,,,7,-8,1,0,-8,-8,0,Turkey,,,Unknown,-9,-9,12/2/1979,0,88/88/8888,None,0,0
-826,Atasever,Tuva,C,,7,-8,1,0,-8,-8,0,Turkey,,,Unknown,-9,-9,8/12/1992,0,88/88/8888,None,0,0
-758,Ansari,Anousheh,,,6,-8,0,0,-8,-8,0,Iran,United States of America,,Unknown,-9,-9,9/12/1966,0,88/88/8888,None,0,0
-843,Jahangir,Eiman,,,6,-8,1,0,-8,-8,0,United States of America,Iran,,MD,3,1,99/99/9999,0,88/88/8888,None,0,0
-146,Chawla,Kalpana ,,,5,-8,0,0,-8,-8,1,United States of America,,,PhD,3,0,7/1/1961,1,2/1/2003,Columbia,3,2
-732,Chari,Raja,JV,,5,-8,1,1,1,6,1,United States of America,,,MS,2,0,6/24/1977,0,88/88/8888,None,0,0
-754,Bandla,Sirisha,,,5,-8,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,1/22/1987,0,88/88/8888,None,0,0
-769,Salim,Namira,,,5,-8,0,0,-8,-8,0,Pakistan,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-829,Sadhwani,Andy,,,5,-8,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/2/1979,0,88/88/8888,None,0,0
-830,Janjua,Jameel,,,5,-8,1,0,-8,-8,0,United States of America,Canada,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-833,Menon,Anna,,,5,-8,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,12/24/1985,0,88/88/8888,None,0,0
-839,Thotakura,Gopichand,,,5,-8,1,0,-8,-8,0,India,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-936,Shah,Tushar,,,5,-8,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-940,Bowe,Aisha,,,5,-8,0,0,-8,-8,-9,United States of America,,,MS,2,0,11/4/1986,0,88/88/8888,None,0,0
-953,Menon,Anil,,,5,-8,1,1,1,-9,0,United States of America,,,MD,3,1,10/5/1976,0,88/88/8888,None,0,0
-273,Herrington,John ,B,,4,-8,1,1,4,6,1,United States of America,,,MS,2,0,9/14/1958,0,88/88/8888,None,0,0
-143,Chang-Diaz,Franklin ,R,,3,-8,1,0,-8,-8,0,United States of America,,,PhD,3,0,4/5/1950,0,88/88/8888,None,0,0
-150,Chiao,Leroy ,,,3,-8,1,0,-8,-8,0,United States of America,,,PhD,3,0,8/28/1960,0,88/88/8888,None,0,0
-318,Lu,Edward ,T,,3,-8,1,0,-8,-8,0,United States of America,,,PhD,3,0,7/1/1963,0,88/88/8888,None,0,0
-412,Tani,Daniel ,M,,3,-8,1,0,-8,-8,1,United States of America,,,MS,2,0,2/1/1961,0,88/88/8888,None,0,0
-464,Aubakirov,Toktar,,,3,-8,1,1,1,7,1,Kazakhstan,,,BS,1,0,7/27/1946,0,88/88/8888,None,0,0
-494,Musabayev,Talgat,,,3,-8,1,1,1,4,1,Kazakhstan,,,PhD,3,0,1/7/1951,0,88/88/8888,None,0,0
-566,Aimbetov,Aydyn,,,3,-8,1,1,1,4,1,Kazakhstan,,,BS,1,0,7/27/1972,0,88/88/8888,None,0,0
-570,Aymakhanov,Mukhtar,,,3,-8,1,1,1,4,1,Kazakhstan,,,JD,3,0,1/1/1967,0,88/88/8888,None,0,0
-678,Cai,Xuzhe,,,3,-8,1,1,9,-9,1,China,,,Unknown,-9,-9,5/15/1976,0,88/88/8888,None,0,0
-679,Chai,Hongliang,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-680,Chen,Dong,,,3,-8,1,1,1,5,1,China,,,BS,1,0,12/12/1978,0,88/88/8888,None,0,0
-681,Chen,Quan,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,9/15/1963,0,88/88/8888,None,0,0
-682,Deng,Qingming,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,3/16/1966,0,88/88/8888,None,0,0
-683,Dong,Xiaohai,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-684,Du,Jincheng,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-685,Fang,Guojun,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-686,Fei,Junlong,,,3,-8,1,1,1,7,1,China,,,BS,1,0,5/5/1965,0,88/88/8888,None,0,0
-687,Hu,Zhanzi,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-688,Jing,Haipeng,,,3,-8,1,1,1,7,1,China,,,BS,1,0,10/24/1966,0,88/88/8888,None,0,0
-689,Li,Qinglong,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,8/15/1962,0,88/88/8888,None,0,0
-690,Li,Shichang,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-691,Liu,Boming,,,3,-8,1,1,1,7,1,China,,,BS,2,0,9/15/1966,0,88/88/8888,None,0,0
-692,Liu,Chongfu,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-693,Liu,Wang,,,3,-8,1,1,1,6,1,China,,,BS,1,0,3/15/1969,0,88/88/8888,None,0,0
-694,Liu,Yang,,,3,-8,0,1,1,4,1,China,,,BS,1,0,10/6/1978,0,88/88/8888,None,0,0
-695,Liu,Zhongyi,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-696,Lu,Xiangxiao,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-697,Ma,Zizhong,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-698,Meng,Senlin,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-699,Nie,Haisheng,,,3,-8,1,1,1,7,1,China,,,BS,1,0,10/13/1964,0,88/88/8888,None,0,0
-700,Pan,Zhanchun,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,10/29/1966,0,88/88/8888,None,0,0
-701,Shao,Zhijian,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-702,Tang,Hongbo,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
-703,Wang,Fuhe,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-704,Wang,Fuquan,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-705,Wang,Quanbo,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-706,Wang,Rongsen,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-707,Wang,Yaping,,,3,-8,0,1,1,-8,1,China,,,BS,1,0,1/27/1980,0,88/88/8888,None,0,0
-708,Wang,Zhiyue,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-709,Wu,Jie,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,10/15/1963,0,88/88/8888,None,0,0
-710,Yang,Liwei,,,3,-8,1,1,1,7,1,China,,,BS,1,0,6/21/1965,0,88/88/8888,None,0,0
-711,Ye,Guangfu,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
-712,Yu,Guilin,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-713,Zhai,Zhigang,,,3,-8,1,1,1,6,1,China,,,BS,1,0,11/10/1966,0,88/88/8888,None,0,0
-714,Zhang,Lu,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
-715,Zhang,Ruxiang,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-716,Zhang,Xiaoguang,,,3,-8,1,0,-8,-8,1,China,,,BS,1,0,5/15/1968,0,88/88/8888,None,0,0
-717,Zhao,Chuandong,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
-719,Wakata,Koichi,,,3,-8,1,0,-8,-8,0,Japan,,,PhD,3,0,8/1/1963,0,88/88/8888,None,0,0
-720,Mohri,Mamoru,,,3,-8,1,0,-8,-8,0,Japan,,,PhD,3,0,1/29/1948,0,88/88/8888,None,0,0
-721,Doi,Takao,,,3,-8,1,0,-8,-8,0,Japan,,,PhD,3,0,9/18/1964,0,88/88/8888,None,0,0
-722,Mukai,Chiaki,,,3,-8,0,0,-8,-8,0,Japan,,,MD,3,1,5/6/1952,0,88/88/8888,None,0,0
-723,Noguchi,Soichi,,,3,-8,1,0,-8,-8,0,Japan,,,MS,2,0,4/15/1965,0,88/88/8888,None,0,0
-724,Furukawa,Satoshi,,,3,-8,1,0,-8,-8,0,Japan,,,MD/PhD,3,1,4/4/1964,0,88/88/8888,None,0,0
-725,Hoshide,Akihiko,,,3,-8,1,0,-8,-8,0,Japan,,,MS,2,0,12/28/1968,0,88/88/8888,None,0,0
-726,Yamazaki,Naoko,,,3,-8,0,0,-8,-8,0,Japan,,,MS,2,0,12/27/1970,0,88/88/8888,None,0,0
-727,Onishi,Takuya,,,3,-8,1,0,-8,-8,1,Japan,,,BS,1,0,12/22/1975,0,88/88/8888,None,0,0
-728,Yui,Kimiya,,,3,-8,1,1,1,5,1,Japan,,,BS,1,0,1/30/1970,0,88/88/8888,None,0,0
-729,Kanai,Norishige,,,3,-8,1,1,3,3,0,Japan,,,MD,3,1,12/5/1976,0,88/88/8888,None,0,0
-736,Kim,Jonny,,,3,-8,1,1,4,3,0,United States of America,,,MD,3,1,2/5/1984,0,88/88/8888,None,0,0
-737,Moghbell,Jasmin,,,3,-8,0,1,5,8,1,United States of America,,,MS,2,0,6/24/1983,0,88/88/8888,None,0,0
-759,Hirano,Yozo,,,3,-8,1,0,-8,-8,0,Japan,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-760,Barnawi,Rayyanah,,,3,-8,0,0,-8,-8,0,Saudi Arabia,,,Unknown,-9,-9,1/1/1990,0,88/88/8888,None,0,0
-799,Lai,Gary,,,3,-8,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/2/1973,0,88/88/8888,None,0,0
-810,Maezawa,Yusaku,,,3,-8,1,0,-8,-8,0,Japan,,,Unknown,-9,-9,11/22/1975,0,88/88/8888,None,0,0
-856,Trinh,Eugene,H,,3,-8,1,0,-8,-8,-9,United States of America,Vietnam,France,PhD,3,0,9/14/1950,0,88/88/8888,None,0,0
-878,Wang,Taylor,,,3,-8,1,-8,-9,-9,0,China,,,PhD,3,0,6/16/1940,0,88/88/8888,None,0,0
-941,Nguyen,Amanda,,,3,-8,0,0,-8,-8,-9,United States of America,Korea,,BA,1,0,10/10/1991,0,88/88/8888,None,0,0
-819,AlQarni,Ali,,,2,-8,1,0,-8,-8,0,Saudi Arabia,,,Unknown,-9,-9,3/1/1992,0,88/88/8888,None,0,0
-858,Al-Bassam,Abdulmohsen,,,2,-8,1,1,8,0,1,Saudi Arabia,,,BS,1,0,12/12/1948,0,88/88/8888,None,0,0
-880,Al Saud,Sultan bin Salman,,,2,-8,1,1,8,6,1,Saudi Arabia,,,MS,2,0,6/27/1956,0,88/88/8888,None,0,0
-7,Wood,James,W,,1,0,1,1,1,6,1,United States of America,,,BS,1,0,8/9/2024,1,1/1/1990,Exact Unknown,4,-8
-17,Anderson,Michael ,P,,1,0,1,1,1,5,1,United States of America,,,MS,2,0,12/25/1959,1,2/1/2003,Columbia,3,2
-41,Bluford,Guion ,S,Jr. ,1,0,1,1,1,6,1,United States of America,,,PhD,3,0,11/22/1942,0,88/88/8888,None,0,0
-49,Bolden,Charles ,F,Jr. ,1,0,1,1,5,8,1,United States of America,,,MS,2,0,8/19/1946,0,88/88/8888,None,0,0
-100,Cagle,Yvonne ,D,,1,0,0,1,1,6,0,United States of America,,,MD,3,1,4/24/1959,0,88/88/8888,None,0,0
-179,Lawrence,Robert,H,,1,0,1,1,1,4,1,United States of America,,,PhD,3,0,10/2/1935,1,12/8/1967,F-104 crash,3,1
-209,Curbeam,Robert ,L,Jr. ,1,0,1,1,4,6,1,United States of America,,,MS,2,0,3/5/1962,0,88/88/8888,None,0,0
-213,Drew,Benjamin,A,,1,0,1,1,1,6,1,United States of America,,,MS,2,0,11/5/1962,0,88/88/8888,None,0,0
-253,Gregory,Frederick ,D,,1,0,1,1,1,6,1,United States of America,,,MS,2,0,1/7/1941,0,88/88/8888,None,0,0
-264,Harris,Bernard ,A,Jr. ,1,0,1,0,-8,-8,1,United States of America,,,MD,3,1,6/26/1956,0,88/88/8888,None,0,0
-275,Higginbotham,Joan ,E,,1,0,0,0,-8,-8,0,United States of America,,,MS,2,0,8/3/1964,0,88/88/8888,None,0,0
-286,Jemison,Mae ,C,,1,0,0,0,-8,-8,0,United States of America,,,MD,3,1,10/17/1956,0,88/88/8888,None,0,0
-333,McNair,Ronald ,E,,1,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,10/21/1950,1,1/28/1986,Challenger,3,2
-337,Melvin,Leland ,D,,1,0,1,0,-8,-8,0,United States of America,,,MS,2,0,2/15/1964,0,88/88/8888,None,0,0
-383,Satcher,Robert ,L,Jr. ,1,0,1,0,-8,-8,0,United States of America,,,MD/PhD,3,1,9/22/1965,0,88/88/8888,None,0,0
-389,Scott,Winston ,E,,1,0,1,1,4,6,1,United States of America,,,MS,2,0,8/6/1950,0,88/88/8888,None,0,0
-447,Wilson,Stephanie ,D,,1,0,0,0,-8,-8,0,United States of America,,,MS,2,0,9/27/1966,0,88/88/8888,None,0,0
-653,Epps,Jeanette,J,,1,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,11/2/1970,0,88/88/8888,None,0,0
-656,Glover,Victor,J,,1,0,1,1,4,5,1,United States of America,,,BS,1,0,4/30/1976,0,88/88/8888,None,0,0
-740,Watkins,Jessica,A,,1,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,5/14/1988,0,88/88/8888,None,0,0
-751,Mayers,Anastatia,,,1,0,0,0,-8,-8,0,Antigua and Barbuda,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-756,Arceneaux,Hayley,,,1,0,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,12/4/1991,0,88/88/8888,None,0,0
-803,Schahaff,Keisha,,,1,0,0,0,-8,-8,0,Antigua and Barbuda,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-942,King,Gayle,,,1,0,0,0,-8,-8,-9,United States of America,,,BS,1,0,12/28/1954,0,88/88/8888,None,0,0
-951,Douglas,Andre,,,1,0,1,1,3,-9,0,United States of America,,,PhD,3,-9,12/11/1985,0,88/88/8888,None,0,0
-954,Williams,Christopher,,,1,0,1,0,-8,-8,-8,United States of America,,,PhD,3,0,10/23/1983,0,88/88/8888,None,0,0
 1,Acaba,Joseph ,M,,0,1,1,1,5,0,0,United States of America,Puerto Rico,,MS,2,0,5/17/1967,0,88/88/8888,None,0,0
 2,Adamson,James ,C,,0,0,1,1,2,6,1,United States of America,,,MS,2,0,3/3/1946,0,88/88/8888,None,0,0
 3,Akers,Thomas ,D,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,5/20/1951,0,88/88/8888,None,0,0
 4,Aldrin,Buzz ,,,0,0,1,1,1,6,1,United States of America,,,PhD,3,0,1/20/1930,0,88/88/8888,None,0,0
 5,Allen,Andrew ,M,,0,0,1,1,5,5,1,United States of America,,,MBA,2,0,8/4/1955,0,88/88/8888,None,0,0
 6,Allen,Joseph ,P,,0,0,1,0,-8,-8,1,United States of America,,,PhD,3,0,6/27/1937,0,88/88/8888,None,0,0
+7,Wood,James,W,,1,0,1,1,1,6,1,United States of America,,,BS,1,0,8/9/1924,1,1/1/1990,Exact Unknown,4,-8
 8,Morukov,Boris,,,0,0,1,0,-8,-8,0,Russia,,,MD/PhD,3,1,10/1/1950,1,1/1/2015,Unknown,-9,-9
 9,Volk,Igor,,,0,0,1,1,1,6,1,Ukraine,,,BS,1,0,4/12/1937,1,1/3/2017,Sudden death on holiday.,-9,-9
 10,Altman,Scott ,D,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,8/15/1959,0,88/88/8888,None,0,0
 11,Anders,William ,A,,0,0,1,1,1,8,1,United States of America,,,MS,2,0,10/17/1933,1,6/7/2024,Unknown,-9,-9
-12,Belyayev,Pavel,,,0,0,1,1,1,4,1,Russia,,,BS,1,0,6/26/2025,1,1/10/1970,Peritonitis after stomach surgery,4,-8
+12,Belyayev,Pavel,,,0,0,1,1,1,4,1,Russia,,,BS,1,0,6/26/1925,1,1/10/1970,Peritonitis after stomach surgery,4,-8
 13,Sorokin,Aleksei,,,0,0,1,1,1,4,0,Russia,,,MD,3,1,3/30/1931,1,1/11/1976,Heart disease,2,-8
 14,Kuklin,Anatoli,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,1/3/1932,1,1/16/2002,Stroke,2,-8
 15,Anderson,Clayton ,C,,0,0,1,0,-8,-8,0,United States of America,,,MS,2,0,2/23/1959,0,88/88/8888,None,0,0
 16,Andryushkov,Aleksandr,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,10/6/1947,1,1/24/2007,Heart attack,2,-8
+17,Anderson,Michael ,P,,1,0,1,1,1,5,1,United States of America,,,MS,2,0,12/25/1959,1,2/1/2003,Columbia,3,2
 18,Antonelli,Dominic ,A,,0,0,1,1,4,5,1,United States of America,,,MS,2,0,8/23/1967,0,88/88/8888,None,0,0
 19,Apt,Jerome ,,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,4/28/1949,0,88/88/8888,None,0,0
 20,Archambault,Lee ,J,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,8/25/1960,0,88/88/8888,None,0,0
@@ -143,22 +32,24 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 31,Bean,Alan ,L,,0,0,1,1,4,6,1,United States of America,,,BS,1,0,3/15/1932,1,5/26/2018,"Short illness acquired while traveling, lasting two weeks",4,-8
 32,Behnken,Robert ,L,,0,0,1,1,1,5,1,United States of America,,,PhD,3,0,7/28/1970,0,88/88/8888,None,0,0
 33,Blaha,John ,E,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,8/26/1942,0,88/88/8888,None,0,0
-34,Yershov,Valentin,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,1/21/2028,1,2/15/1998,Cancer,1,-8
+34,Yershov,Valentin,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,1/21/1928,1,2/15/1998,Cancer,1,-8
 35,Nelyubov,Grigori,,,0,0,1,1,1,3,1,Russia,,,BS,1,0,3/31/1934,1,2/18/1966,Hit by train while drunk,3,4
 36,Pozharskaya,Larisa,,,0,0,0,0,-8,-8,0,Russia,,,MD,3,1,3/15/1947,1,2/18/2002,Cancer,1,-8
 37,Bloomfield,Michael ,J,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,3/16/1959,0,88/88/8888,None,0,0
 38,Kubasov,Valeri,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,1/7/1935,1,2/19/2014,Exact Unknown,2,-8
 39,Amelkina,Galina,,,0,0,0,0,-8,-8,0,Germany,,,MD,3,1,5/22/1954,1,2/20/2014,Cancer,1,-8
 40,Gubarev,Aleksei,,,0,0,1,1,1,7,1,Russia,,,PhD,3,0,3/29/1931,1,2/21/2015,Exact Unknown,4,-8
+41,Bluford,Guion ,S,Jr. ,1,0,1,1,1,6,1,United States of America,,,PhD,3,0,11/22/1942,0,88/88/8888,None,0,0
 42,Bobko,Karol ,J,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,12/23/1937,1,8/17/2020,Exact Unknown,4,-8
 43,Kugno,Eduard,,,0,0,1,1,1,6,1,Ukraine,,,PhD,3,0,6/27/1935,1,2/24/1994,Stomach cancer,1,-8
 44,Boe,Eric ,A,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,10/1/1964,0,88/88/8888,None,0,0
-45,Rushworth,Robert,A,,0,0,1,1,1,-9,1,United States of America,,,BS,1,0,10/9/2024,1,3/17/1993,Heart attack,2,-8
-46,White,Robert,M,,0,0,1,1,1,8,1,United States of America,,,MBA,2,0,7/6/2024,1,3/17/2010,Exact Unknown,4,-8
+45,Rushworth,Robert,A,,0,0,1,1,1,-9,1,United States of America,,,BS,1,0,10/9/1924,1,3/17/1993,Heart attack,2,-8
+46,White,Robert,M,,0,0,1,1,1,8,1,United States of America,,,MBA,2,0,7/6/1924,1,3/17/2010,Exact Unknown,4,-8
 47,Alekseyev,Vladimir,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,8/19/1933,1,3/1/2013,Unknown,-9,-9
 48,Kozlov,Vladimir,,,0,0,1,1,1,6,0,Kazakhstan,,,BS,1,0,10/20/1945,1,3/2/2012,Unknown,-9,-9
+49,Bolden,Charles ,F,Jr. ,1,0,1,1,5,8,1,United States of America,,,MS,2,0,8/19/1946,0,88/88/8888,None,0,0
 50,Illarionov,Valeri,,,0,0,1,1,1,6,0,Russia,,,BS,1,0,3/2/1939,1,3/10/1999,Cancer,1,-8
-51,Borman,Frank ,,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,3/14/2028,1,11/7/2023,Unknown,-9,-9
+51,Borman,Frank ,,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,3/14/1928,1,11/7/2023,Unknown,-9,-9
 52,Bowen,Stephen ,G,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,2/13/1964,0,88/88/8888,None,0,0
 53,Bowersox,Kenneth ,D,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,11/14/1956,0,88/88/8888,None,0,0
 54,Brady,Charles ,E,Jr. ,0,0,1,1,4,6,0,United States of America,,,MD,3,1,8/12/1951,1,7/23/2006,Suicide,3,5
@@ -166,15 +57,15 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 56,Brand,Vance ,D,,0,0,1,1,5,6,1,United States of America,,,MBA,2,0,5/9/1931,0,88/88/8888,None,0,0
 57,Bondarenko,Valentin,,,0,0,1,1,1,1,1,Russia,,,BS,1,0,2/16/1937,1,3/23/1961,Burned to death in oxygen fire in barimetric chamber,3,3
 58,Gagarin,Yuri,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,3/9/1934,1,3/27/1968,Plane crash,3,1
-59,Crossfield,Albert,S,,0,0,1,0,-8,-8,1,United States of America,,,MS,2,0,10/2/2021,1,4/19/2006,Plane crash,3,1
+59,Crossfield,Albert,S,,0,0,1,0,-8,-8,1,United States of America,,,MS,2,0,10/2/1921,1,4/19/2006,Plane crash,3,1
 60,Sevastiyanov,Vitali,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,7/8/1935,1,4/5/2010,Leukemia,1,-8
 61,Brandenstein,Daniel ,C,,0,0,1,1,4,6,1,United States of America,,,BS,1,0,1/17/1943,0,88/88/8888,None,0,0
-62,McKay,John,B,,0,0,1,1,1,-9,1,United States of America,,,BS,1,0,12/8/2022,1,4/27/1975,"Natural causes, liver disease/alcoholism",4,-8
+62,McKay,John,B,,0,0,1,1,1,-9,1,United States of America,,,BS,1,0,12/8/1922,1,4/27/1975,"Natural causes, liver disease/alcoholism",4,-8
 63,Shonin,Georgi,,,0,0,1,1,1,7,1,Ukraine,,,BS,1,0,8/3/1935,1,4/7/1997,Heart attack,2,-8
 64,Grechko,Georgi,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,5/25/1931,1,4/8/2017,Exact Unknown,4,-8
 65,Kramarenko,Aleksandr,,,0,0,1,1,1,6,1,Ukraine,,,BS,1,0,11/8/1942,1,4/13/2002,Heart attack,2,-8
 66,Gevorkyan,Vladimir,,,0,0,1,0,-8,-8,0,Armenia,,,BS,1,0,5/28/1952,1,4/13/2008,Brain cancer,1,-8
-67,Anokhin,Sergei,,,0,0,1,1,1,-8,1,Russia,,,BS,1,0,4/1/2010,1,4/15/1986,Pancreatitis,4,-8
+67,Anokhin,Sergei,,,0,0,1,1,1,-8,1,Russia,,,BS,1,0,4/1/1910,1,4/15/1986,Pancreatitis,4,-8
 68,Sattarov,Nail,,,0,0,1,1,1,6,1,Bashkortostan,,,BS,1,0,12/23/1941,1,4/15/2014,Unknown,-9,-9
 69,Bresnik,Randolph ,J,,0,0,1,1,5,6,1,United States of America,,,MS,2,0,9/11/1967,0,88/88/8888,None,0,0
 70,Fatkhullin,Mars,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,5/14/1939,1,4/16/2003,Stroke,2,-8
@@ -183,9 +74,9 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 73,Bridges,Roy ,D,Jr. ,0,0,1,1,1,8,1,United States of America,,,MS,2,0,7/19/1943,0,88/88/8888,None,0,0
 74,Lyakhov,Vladimir,,,0,0,1,1,1,6,1,Ukraine,,,BS,1,0,7/20/1941,1,4/19/2018,Unknown,-9,-9
 75,Dana,William,H,,0,0,1,1,1,-9,1,United States of America,,,MS,2,0,11/3/1930,1,5/6/2014,Parkinson's disease,4,-8
-76,Komarov,Vladimir,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,3/16/2027,1,4/24/1967,Spacecraft accident,3,2
+76,Komarov,Vladimir,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,3/16/1927,1,4/24/1967,Spacecraft accident,3,2
 77,Rebrov,Mikhail,,,0,0,1,1,1,6,0,Russia,,,BS,1,0,7/3/1931,1,4/24/1998,Cancer,1,-8
-78,Knight,William,J,,0,0,1,1,1,5,1,United States of America,,,BS,1,0,11/18/2029,1,5/7/2004,Leukemia,1,-8
+78,Knight,William,J,,0,0,1,1,1,5,1,United States of America,,,BS,1,0,11/18/1929,1,5/7/2004,Leukemia,1,-8
 79,Brown,Curtis ,L,Jr. ,0,0,1,1,1,6,1,United States of America,,,BS,1,0,3/11/1956,0,88/88/8888,None,0,0
 80,Yakovlev,Oleg,,,0,0,1,1,1,6,1,Russia,,,PhD,3,0,12/31/1940,1,5/2/1990,Heart attack,2,-8
 81,Brown,David ,M,,0,0,1,1,4,6,1,United States of America,,,MD,3,1,4/16/1956,1,2/1/2003,Columbia,3,2
@@ -198,42 +89,43 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 88,Gorbatko,Viktor,,,0,0,1,1,1,7,1,Russia,,,BS,1,0,12/3/1934,1,5/15/2017,Exact Unknown,4,-8
 89,Khrunov,Yevgeny,,,0,0,1,1,1,6,1,Russia,,,PhD,3,0,9/10/1933,1,5/19/2000,Heart attack,2,-8
 90,Golovanov,Yaroslav,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,6/2/1932,1,5/21/2003,Unknown,-9,-9
-91,Walker,Joseph,A,,0,0,1,1,1,3,1,United States of America,,,BS,1,0,2/20/2021,1,6/8/1966,Plane crash,3,1
+91,Walker,Joseph,A,,0,0,1,1,1,3,1,United States of America,,,BS,1,0,2/20/1921,1,6/8/1966,Plane crash,3,1
 92,Bull,John ,S,,0,0,1,1,4,4,1,United States of America,,,PhD,3,0,9/25/1934,1,8/11/2008,Complications due to long-term Asthma,4,-8
 93,Yorkina,Zhanna,,,0,0,0,1,1,4,0,Russia,,,BS,1,0,5/6/1939,1,5/25/2015,Unknown,-9,-9
 94,Burbank,Daniel ,C,,0,0,1,1,3,6,1,United States of America,,,MS,2,0,7/27/1961,0,88/88/8888,None,0,0
 95,Bursch,Daniel ,W,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,7/25/1957,0,88/88/8888,None,0,0
 96,Makarov,Oleg,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,1/6/1933,1,5/28/2003,Heart attack,2,-8
-97,Benderov,Vladimir,,,0,0,1,1,1,-8,1,Russia,,,BS,1,0,8/4/2024,1,6/3/1974,Plane crash Tu-144,3,1
+97,Benderov,Vladimir,,,0,0,1,1,1,-8,1,Russia,,,BS,1,0,8/4/1924,1,6/3/1974,Plane crash Tu-144,3,1
 98,Sheffer,Yuri,,,0,0,1,0,-8,-8,1,Russia,,,BS,1,0,6/30/1947,1,6/5/2001,Heart failure while working,2,-8
 99,Cabana,Robert ,D,,0,0,1,1,5,6,1,United States of America,,,BS,1,0,1/23/1949,0,88/88/8888,None,0,0
+100,Cagle,Yvonne ,D,,1,0,0,1,1,6,0,United States of America,,,MD,3,1,4/24/1959,0,88/88/8888,None,0,0
 101,Caldeiro,Fernando ,,,0,1,1,0,-8,-8,0,United States of America,,,MS,2,0,6/12/1958,1,10/3/2009,Brain tumor,1,-8
 102,Kizim,Leonid,,,0,0,1,1,1,9,1,Ukraine,,,BS,1,0,8/5/1941,1,6/14/2010,Unknown,-9,-9
 103,Dyson,Tracy ,E,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,8/14/1969,0,88/88/8888,None,0,0
-104,Matinchenko,Aleksandr,,,0,0,1,1,1,5,1,Russia,,,BS,1,0,9/4/2027,1,6/18/1999,Unknown,-9,-9
+104,Matinchenko,Aleksandr,,,0,0,1,1,1,5,1,Russia,,,BS,1,0,9/4/1927,1,6/18/1999,Unknown,-9,-9
 105,Belousov,Boris,,,0,0,1,1,1,6,0,Belarus,,,BS,1,0,7/24/1930,1,6/27/1998,Unknown,-9,-9
-106,Dobrovolsky,Georgiy,,,0,0,1,1,1,5,1,Ukraine,,,BS,1,0,6/1/2028,1,6/30/1971,Spacecraft accident,3,2
+106,Dobrovolsky,Georgiy,,,0,0,1,1,1,5,1,Ukraine,,,BS,1,0,6/1/1928,1,6/30/1971,Spacecraft accident,3,2
 107,Patsayev,Viktor,,,0,0,1,0,-8,-8,0,Kazakhstan,,,BS,1,0,6/19/1933,1,6/30/1971,Spacecraft accident,3,2
-108,Volkov,Vladislav,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,11/23/2025,1,6/30/1971,Spacecraft accident,3,2
-109,Beregovoy,Georgy,,,0,0,1,1,1,7,1,Ukraine,,,PhD,3,0,4/15/2021,1,6/30/1995,Heart surgery/heart failure,2,-8
+108,Volkov,Vladislav,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,11/23/1925,1,6/30/1971,Spacecraft accident,3,2
+109,Beregovoy,Georgy,,,0,0,1,1,1,7,1,Ukraine,,,PhD,3,0,4/15/1921,1,6/30/1995,Heart surgery/heart failure,2,-8
 110,Camarda,Charles ,J,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,5/8/1952,0,88/88/8888,None,0,0
-111,Katys,Georgi,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,8/31/2026,1,7/1/2017,Unknown,-9,-9
+111,Katys,Georgi,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,8/31/1926,1,7/1/2017,Unknown,-9,-9
 112,Herres,Robert,T,,0,0,1,1,1,-9,1,United States of America,,,MS,2,0,12/1/1932,1,7/24/2008,Brain cancer,1,-8
-113,Nikolayev,Andriyan,,,0,0,1,1,1,7,1,Russia,,,BS,1,0,9/5/2029,1,7/3/2004,Heart attack,2,-8
+113,Nikolayev,Andriyan,,,0,0,1,1,1,7,1,Russia,,,BS,1,0,9/5/1929,1,7/3/2004,Heart attack,2,-8
 114,Cameron,Kenneth ,D,,0,0,1,1,5,6,1,United States of America,,,MS,2,0,11/29/1949,0,88/88/8888,None,0,0
 115,Vozovikov,Sergei,,,0,0,1,1,1,4,1,Russia,,,BS,1,0,4/17/1958,1,7/11/1993,Drowned during survival training,3,3
 116,Shcheglov,Vasili,,,0,0,1,1,1,4,1,Ukraine,,,BS,1,0,4/9/1940,1,7/16/1973,Lung cancer,1,-8
 117,Kolomiytsev,Ordinard,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,1/29/1933,1,7/16/2012,Unknown,-9,-9
-118,Thompson,Milton,O,,0,0,1,1,1,4,1,United States of America,,,BS,1,0,5/4/2026,1,8/6/1993,Exact Unknown,4,-8
+118,Thompson,Milton,O,,0,0,1,1,1,4,1,United States of America,,,BS,1,0,5/4/1926,1,8/6/1993,Exact Unknown,4,-8
 119,Vasyutin,Vladimir,,,0,0,1,1,1,7,1,Ukraine,,,PhD,3,0,3/8/1952,1,7/19/2002,Cancer,1,-8
 120,Carey,Duane ,G,,0,0,1,1,1,5,1,United States of America,,,MS,2,0,4/30/1957,0,88/88/8888,None,0,0
 121,Rafikov,Mars,,,0,0,1,1,1,4,1,Kyrgyzstan,,,BS,1,0,9/29/1933,1,7/23/2000,Heart attack,2,-8
-122,Carpenter,M. Scott,S,,0,0,1,1,4,5,1,United States of America,,,BS,1,0,5/1/2025,1,10/10/2013,Complications from stroke,2,-8
+122,Carpenter,M. Scott,S,,0,0,1,1,4,5,1,United States of America,,,BS,1,0,5/1/1925,1,10/10/2013,Complications from stroke,2,-8
 123,Carr,Gerald ,P,,0,0,1,1,5,6,1,United States of America,,,MS,2,0,8/22/1932,0,88/88/8888,None,0,0
 124,Carter,Manley ,L,Jr. ,0,0,1,1,4,6,1,United States of America,,,MD,3,1,8/15/1947,1,4/5/1991,Plane crash - civilian,3,1
 125,Prikhodko,Yuri,,,0,0,1,1,1,4,1,Tajikistan,,,BS,1,0,11/15/1953,1,7/25/2001,Cancer,1,-8
 126,Casper,John ,H,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,7/9/1943,0,88/88/8888,None,0,0
-127,Letunov,Yuri,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,10/26/2026,1,7/30/1983,Heart attack,2,-8
+127,Letunov,Yuri,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,10/26/1926,1,7/30/1983,Heart attack,2,-8
 128,Lisun,Mikhail,,,0,0,1,1,1,6,0,Ukraine,,,BS,1,0,9/5/1935,1,7/31/2012,Unknown,-9,-9
 129,Artyukhin,Yuri,,,0,0,1,1,1,6,1,Russia,,,PhD,3,0,6/22/1930,1,8/4/1988,Cancer,1,-8
 130,Sologub,Mikhail,,,0,0,1,1,1,6,0,Russia,,,BS,1,0,11/6/1936,1,8/4/1996,Leukemia,1,-8
@@ -245,15 +137,18 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 136,Taylor,James,M,,0,0,1,1,1,-9,1,United States of America,,,BS,1,0,11/27/1930,1,9/4/1970,T-38 crash,3,1
 137,Shchukin,Aleksandr,,,0,0,1,0,-8,-8,1,Austria,,,BS,1,0,1/19/1946,1,8/18/1988,Plane crash,3,1
 138,Chamitoff,Gregory ,E,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,8/6/1962,0,88/88/8888,None,0,0
-139,Rogers,Russell,L,,0,0,1,1,1,5,1,United States of America,,,BS,1,0,4/12/2028,1,9/13/1967,Plane crash,3,1
+139,Rogers,Russell,L,,0,0,1,1,1,5,1,United States of America,,,BS,1,0,4/12/1928,1,9/13/1967,Plane crash,3,1
 140,Finley,John,L,,0,0,1,1,4,5,1,United States of America,,,High School,0,0,12/22/1935,1,9/19/2006,Cancer,1,-8
-141,Gordon,Henry,C,,0,0,1,1,1,6,1,United States of America,,,MBA,2,0,12/23/2025,1,9/24/1996,Exact Unknown,4,-8
+141,Gordon,Henry,C,,0,0,1,1,1,6,1,United States of America,,,MBA,2,0,12/23/1925,1,9/24/1996,Exact Unknown,4,-8
 142,Kuznetsova,Tatiyana,,,0,0,0,1,1,6,0,Russia,,,BS,1,0,7/14/1941,1,8/28/2018,Unknown,-9,-9
+143,Chang-Diaz,Franklin ,R,,3,-8,1,0,-8,-8,0,United States of America,,,PhD,3,0,4/5/1950,0,88/88/8888,None,0,0
 144,Rozhdestvensky,Valery,,,0,0,1,1,3,-8,0,Russia,,,BS,1,0,2/13/1939,1,8/31/2011,Unknown,-9,-9
 145,Chapman,Philip ,K,,0,0,1,0,-8,-8,1,United States of America,,,ScD,3,0,3/5/1935,1,4/5/2021,Unknown,-9,-9
+146,Chawla,Kalpana ,,,5,-8,0,0,-8,-8,1,United States of America,,,PhD,3,0,7/1/1961,1,2/1/2003,Columbia,3,2
 147,Kononenko,Oleg,G,,0,0,1,0,-8,-8,1,Russia,,,BS,1,0,8/16/1938,1,9/8/1980,Plane crash,3,1
 148,Stankevicius,Rimantas,,,0,0,1,1,1,5,1,Lithuania,,,BS,1,0,7/26/1944,1,9/9/1990,Plane crash,3,1
 149,Yegorov,Boris,,,0,0,1,0,-8,-8,0,Russia,,,MD,3,1,11/26/1937,1,9/12/1994,Heart attack,2,-8
+150,Chiao,Leroy ,,,3,-8,1,0,-8,-8,0,United States of America,,,PhD,3,0,8/28/1960,0,88/88/8888,None,0,0
 151,Filatyev,Valentin,,,0,0,1,1,1,1,1,Russia,,,BS,1,0,1/21/1930,1,9/15/1990,Lung cancer,1,-8
 152,Dedkov,Anatoli,,,0,0,1,1,1,6,1,Belarus,,,BS,1,0,7/24/1944,1,9/17/2016,Exact Unknown,2,-8
 153,Romanov,Valeri,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,8/18/1946,1,9/18/2014,Unknown,-9,-9
@@ -282,9 +177,10 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 176,Rukavishnikov,Nikolai,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,9/18/1932,1,10/19/2002,Heart attack,2,-8
 177,Stepanov,Eduard,,,0,0,1,1,1,6,0,Russia,,,PhD,3,0,4/14/1937,1,10/19/2015,Unknown,-9,-9
 178,Zaikin,Dmitri,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,4/1/1932,1,10/21/2013,Unknown,-9,-9
+179,Lawrence,Robert,H,,1,0,1,1,1,4,1,United States of America,,,PhD,3,0,10/2/1935,1,12/8/1967,F-104 crash,3,1
 180,Ivanov,Leonid,,,0,0,1,1,1,4,1,Russia,,,BS,1,0,6/25/1950,1,10/24/1980,Plane crash,3,1
 181,Preobrazhensky,Vladimir,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,2/3/1939,1,10/25/1993,Car accident,3,4
-182,Petersen,Forrest,S,,0,0,1,1,4,9,1,United States of America,,,Unknown,-9,-9,5/16/2022,1,12/8/1990,Brain tumor,1,-8
+182,Petersen,Forrest,S,,0,0,1,1,4,9,1,United States of America,,,Unknown,-9,-9,5/16/1922,1,12/8/1990,Brain tumor,1,-8
 183,Voronov,Anatoli,,,0,0,1,1,1,6,0,Russia,,,BS,1,0,6/11/1930,1,10/31/1993,Cancer,1,-8
 184,Collins,Eileen ,M,,0,0,0,1,1,6,1,United States of America,,,MS,2,0,11/19/1956,0,88/88/8888,None,0,0
 185,Malyshev,Yuri,,,0,0,1,1,1,6,1,Russia,,,MS,2,0,8/27/1941,1,11/8/1999,Sepsis after surgery,4,-8
@@ -294,10 +190,10 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 189,Serebrov,Aleksandr,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,2/15/1944,1,11/12/2013,Unknown,-9,-9
 190,Dolgopolov,Gennadi,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,11/14/1935,1,11/13/2008,Unknown,-9,-9
 191,Conrad Jr.,Charles,J,Jr. ,0,0,1,1,4,6,1,United States of America,,,BS,1,0,6/2/1930,1,7/8/1999,Motorcycle crash,3,4
-192,Feoktistov,Konstantin,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,2/7/2026,1,11/21/2009,Cancer,1,-8
+192,Feoktistov,Konstantin,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,2/7/1926,1,11/21/2009,Cancer,1,-8
 193,Moskalenko,Nikolai,,,0,0,1,1,1,5,1,Chechnya,,,BS,1,0,1/1/1949,1,11/25/2004,Unknown,-9,-9
 194,Sharov,Valeri,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,12/26/1953,1,11/26/2014,Unknown,-9,-9
-195,Cooper,L. Gordon,G,Jr. ,0,0,1,1,1,6,1,United States of America,,,BS,1,0,3/6/2027,1,10/4/2004,Heart Failure,2,-8
+195,Cooper,L. Gordon,G,Jr. ,0,0,1,1,1,6,1,United States of America,,,BS,1,0,3/6/1927,1,10/4/2004,Heart Failure,2,-8
 196,Karashtin,Vladimir,,,0,0,1,0,-8,-8,0,Russia,,,MD,3,1,11/18/1962,1,12/2/2015,Exact Unknown,2,-8
 197,Yemelyanov,Sergei,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,8/3/1951,1,12/5/1992,Heart attack,2,-8
 198,Gaydukov,Sergei,,,0,0,1,1,1,5,1,Russia,,,BS,1,0,10/31/1936,1,12/5/2008,Unknown,-9,-9
@@ -307,13 +203,15 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 202,Glazkov,Yuri,,,0,0,1,1,1,7,1,Russia,,,PhD,3,0,10/2/1939,1,12/9/2008,Unknown,-9,-9
 203,Kartashov,Anatoli,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,8/25/1932,1,12/11/2005,Cancer,1,-8
 204,Crippen,Robert ,L,,0,0,1,1,4,6,1,United States of America,,,BS,1,0,9/11/1937,0,88/88/8888,None,0,0
-205,Dyomin,Lev,,,0,0,1,1,1,6,1,Russia,,,PhD,3,0,1/11/2026,1,12/18/1998,Cancer,1,-8
+205,Dyomin,Lev,,,0,0,1,1,1,6,1,Russia,,,PhD,3,0,1/11/1926,1,12/18/1998,Cancer,1,-8
 206,Culbertson,Frank ,L,Jr. ,0,0,1,1,4,6,1,United States of America,,,BS,1,0,5/15/1949,0,88/88/8888,None,0,0
 207,Cunningham,Walter ,,,0,0,1,1,5,6,1,United States of America,,,PhD,3,0,3/16/1932,1,1/3/2023,Unknown,-9,-9
 208,Strekalov,Gennadi,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,10/26/1940,1,12/25/2004,Cancer,1,-8
-210,Lazarev,Vasili,,,0,0,1,1,1,6,0,Russia,,,MD,3,1,2/23/2028,1,12/31/1990,Alcohol poisoning,3,4
+209,Curbeam,Robert ,L,Jr. ,1,0,1,1,4,6,1,United States of America,,,MS,2,0,3/5/1962,0,88/88/8888,None,0,0
+210,Lazarev,Vasili,,,0,0,1,1,1,6,0,Russia,,,MD,3,1,2/23/1928,1,12/31/1990,Alcohol poisoning,3,4
 211,Currie,Nancy ,J,,0,0,0,1,2,6,0,United States of America,,,PhD,3,0,12/29/1958,0,88/88/8888,None,0,0
 212,Davis,N. Jan,,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,11/1/1953,0,88/88/8888,None,0,0
+213,Drew,Benjamin,A,,1,0,1,1,1,6,1,United States of America,,,MS,2,0,11/5/1962,0,88/88/8888,None,0,0
 214,Duffy,Brian ,,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,6/20/1953,0,88/88/8888,None,0,0
 215,Duke,Charles ,M,Jr. ,0,0,1,1,1,7,1,United States of America,,,MS,2,0,10/3/1935,0,88/88/8888,None,0,0
 216,Dunbar,Bonnie ,J,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,3/3/1949,0,88/88/8888,None,0,0
@@ -346,16 +244,17 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 243,Gibson,Edward ,G,,0,0,1,0,-8,-8,1,United States of America,,,PhD,3,0,11/8/1936,0,88/88/8888,None,0,0
 244,Gibson,Robert ,L,,0,0,1,1,4,6,1,United States of America,,,BS,1,0,10/30/1946,0,88/88/8888,None,0,0
 245,Givens,Edward ,G,Jr. ,0,0,1,1,1,4,1,United States of America,,,BS,1,0,1/5/1930,1,6/6/1967,Automobile accident,3,4
-246,Glenn,John ,H,Jr. ,0,0,1,1,5,6,1,United States of America,,,BS,1,0,7/18/2021,1,12/8/2016,Exact Unknown,1,-8
+246,Glenn,John ,H,Jr. ,0,0,1,1,5,6,1,United States of America,,,BS,1,0,7/18/1921,1,12/8/2016,Exact Unknown,1,-8
 247,Godwin,Linda ,M,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,7/2/1952,0,88/88/8888,None,0,0
 248,Good,Michael ,T,,0,0,1,1,1,6,0,United States of America,,,MS,2,0,10/13/1962,0,88/88/8888,None,0,0
-249,Gordon,Richard ,F,Jr. ,0,0,1,1,4,6,1,United States of America,,,BS,1,0,10/5/2029,1,11/7/2017,Cardiac arrest as complication from cancer.,1,-8
+249,Gordon,Richard ,F,Jr. ,0,0,1,1,4,6,1,United States of America,,,BS,1,0,10/5/1929,1,11/7/2017,Cardiac arrest as complication from cancer.,1,-8
 250,Gorie,Dominic ,L,,0,0,1,1,4,6,0,United States of America,,,MS,2,0,5/2/1957,0,88/88/8888,None,0,0
 251,Grabe,Ronald ,J,,0,0,1,1,1,6,1,United States of America,,,BS,1,0,6/13/1945,0,88/88/8888,None,0,0
 252,Graveline,Duane ,E,,0,0,1,1,1,6,0,United States of America,,,MD,3,1,3/2/1931,1,9/5/2016,Neurodegenerative condition,4,-8
+253,Gregory,Frederick ,D,,1,0,1,1,1,6,1,United States of America,,,MS,2,0,1/7/1941,0,88/88/8888,None,0,0
 254,Gregory,William ,G,,0,0,1,1,1,5,1,United States of America,,,MS,2,0,5/14/1957,0,88/88/8888,None,0,0
 255,Griggs,Stanley,D,,0,0,1,1,4,7,1,United States of America,,,MS,2,0,9/7/1939,1,6/17/1989,Plane crash - civilian (T-6 World War II training plane),3,1
-256,Grissom,Virgil ,I,,0,0,1,1,1,5,1,United States of America,,,BS,1,0,4/3/2026,1,1/27/1967,Apollo 1,3,2
+256,Grissom,Virgil ,I,,0,0,1,1,1,5,1,United States of America,,,BS,1,0,4/3/1926,1,1/27/1967,Apollo 1,3,2
 257,Grunsfeld,John ,M,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,10/10/1958,0,88/88/8888,None,0,0
 258,Gutierrez,Sidney ,M,,0,1,1,1,1,6,1,United States of America,,,MA,2,0,6/27/1951,0,88/88/8888,None,0,0
 259,Haise,Fred ,W,Jr. ,0,0,1,1,5,3,1,United States of America,,,BS,1,0,11/14/1933,0,88/88/8888,None,0,0
@@ -363,15 +262,18 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 261,Ham,Kenneth ,T,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,12/12/1964,0,88/88/8888,None,0,0
 262,Hammond,L. Blaine,,Jr. ,0,0,1,1,1,6,1,United States of America,,,MS,2,0,1/16/1952,0,88/88/8888,None,0,0
 263,Harbaugh,Gregory ,J,,0,0,1,0,-8,-8,1,United States of America,,,MS,2,0,4/15/1956,0,88/88/8888,None,0,0
+264,Harris,Bernard ,A,Jr. ,1,0,1,0,-8,-8,1,United States of America,,,MD,3,1,6/26/1956,0,88/88/8888,None,0,0
 265,Hart,Terry ,J,,0,0,1,1,1,5,1,United States of America,,,MS,2,0,10/27/1946,0,88/88/8888,None,0,0
 266,Hartsfield,Henry,W,Jr. ,0,0,1,1,1,6,1,United States of America,,,MS,2,0,11/21/1933,1,7/17/2014,Complications from back surgery,4,-8
 267,Hauck,Frederick ,H,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,4/11/1941,0,88/88/8888,None,0,0
 268,Hawley,Steven ,A,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,12/12/1951,0,88/88/8888,None,0,0
 269,Helms,Susan ,J,,0,0,0,1,1,7,1,United States of America,,,MS,2,0,2/26/1958,0,88/88/8888,None,0,0
-270,Henize,Karl ,G,,0,0,1,0,-8,-8,1,United States of America,,,PhD,3,0,10/17/2026,1,10/5/1993,High altitude pulminary edema Mt. Everest,3,5
+270,Henize,Karl ,G,,0,0,1,0,-8,-8,1,United States of America,,,PhD,3,0,10/17/1926,1,10/5/1993,High altitude pulminary edema Mt. Everest,3,5
 271,Henricks,Terence ,T,,0,0,1,1,1,6,1,United States of America,,,MPA,2,0,7/5/1952,0,88/88/8888,None,0,0
 272,Hernandez,Jose ,M,,0,1,1,0,-8,-8,0,United States of America,,,MS,2,0,8/7/1962,0,88/88/8888,None,0,0
+273,Herrington,John ,B,,4,-8,1,1,4,6,1,United States of America,,,MS,2,0,9/14/1958,0,88/88/8888,None,0,0
 274,Hieb,Richard ,J,,0,0,1,0,-8,-8,0,United States of America,,,MS,2,0,9/21/1955,0,88/88/8888,None,0,0
+275,Higginbotham,Joan ,E,,1,0,0,0,-8,-8,0,United States of America,,,MS,2,0,8/3/1964,0,88/88/8888,None,0,0
 276,Hilmers,David ,C,,0,0,1,1,5,6,0,United States of America,,,MS,3,1,1/28/1950,0,88/88/8888,None,0,0
 277,Hire,Kathryn ,P,,0,0,0,1,4,6,0,United States of America,,,MS,2,0,8/26/1959,0,88/88/8888,None,0,0
 278,Hobaugh,Charles ,O,,0,0,1,1,5,6,1,United States of America,,,BS,1,0,11/5/1961,0,88/88/8888,None,0,0
@@ -382,6 +284,7 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 283,Husband,Rick ,D,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,7/12/1957,1,2/1/2003,Columbia,3,2
 284,Irwin,James ,B,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,3/17/1930,1,8/8/1991,Heart attack,2,-8
 285,Ivins,Marsha,S,,0,0,0,0,-8,-8,0,United States of America,,,BS,1,0,4/15/1951,0,88/88/8888,None,0,0
+286,Jemison,Mae ,C,,1,0,0,0,-8,-8,0,United States of America,,,MD,3,1,10/17/1956,0,88/88/8888,None,0,0
 287,Jernigan,Tamara ,E,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,5/7/1959,0,88/88/8888,None,0,0
 288,Jett,Brent ,W,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,10/5/1958,0,88/88/8888,None,0,0
 289,Johnson,Gregory ,C,,0,0,1,1,4,6,1,United States of America,,,BS,1,0,7/30/1954,0,88/88/8888,None,0,0
@@ -411,25 +314,28 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 313,Lounge,John ,M,,0,0,1,1,4,5,0,United States of America,,,MS,2,0,6/28/1946,1,3/1/2011,Liver cancer,1,-8
 314,Lousma,Jack ,R,,0,0,1,1,5,6,1,United States of America,,,MS,2,0,2/29/1936,0,88/88/8888,None,0,0
 315,Love,Stanley ,G,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,6/8/1965,0,88/88/8888,None,0,0
-316,Lovell,James ,A,Jr. ,0,0,1,1,4,6,1,United States of America,,,BS,1,0,3/25/2028,0,88/88/8888,None,0,0
+316,Lovell,James ,A,Jr. ,0,0,1,1,4,6,1,United States of America,,,BS,1,0,3/25/1928,0,88/88/8888,None,0,0
 317,Low,George,D,,0,0,1,0,-8,-8,0,United States of America,,,MS,2,0,2/19/1956,1,3/15/2008,Colon cancer,1,-8
+318,Lu,Edward ,T,,3,-8,1,0,-8,-8,0,United States of America,,,PhD,3,0,7/1/1963,0,88/88/8888,None,0,0
 319,Lucid,Shannon ,W,,0,0,0,0,-8,-8,1,United States of America,,,PhD,3,0,1/14/1943,0,88/88/8888,None,0,0
 320,Magnus,Sandra ,H,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,10/30/1964,0,88/88/8888,None,0,0
 321,Marshburn,Thomas ,H,,0,0,1,0,-8,-8,1,United States of America,,,MD,3,1,8/29/1960,0,88/88/8888,None,0,0
 322,Massimino,Michael ,J,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,8/19/1962,0,88/88/8888,None,0,0
 323,Mastracchio,Richard ,A,,0,0,1,0,-8,-8,0,United States of America,,,MS,2,0,2/11/1960,0,88/88/8888,None,0,0
 324,Mattingly,Thomas ,K,II ,0,0,1,1,4,7,1,United States of America,,,BS,1,0,3/17/1936,1,11/4/2023,Unknown,-9,-9
-325,McArthur,Megan,,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,8/30/1971,0,88/88/8888,None,0,0
+325,McArthur,Megan,,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,8/30/1971,0,88/88/8888,None,0,0
 326,McArthur,William ,S,Jr. ,0,0,1,1,2,6,1,United States of America,,,MS,2,0,7/26/1951,0,88/88/8888,None,0,0
 327,McBride,Jon ,A,,0,0,1,1,4,6,1,United States of America,,,BS,1,0,8/14/1943,0,88/88/8888,None,0,0
 328,McCandless,Bruce,I,II ,0,0,1,1,4,6,1,United States of America,,,MBA,2,0,6/8/1937,1,12/21/2017,Unknown,-9,-9
 329,McCool,William ,C,,0,0,1,1,4,5,1,United States of America,,,MS,2,0,9/23/1961,1,2/1/2003,Columbia,3,2
 330,McCulley,Michael ,J,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,8/4/1943,0,88/88/8888,None,0,0
-331,McDivitt,James ,A,,0,0,1,1,1,7,1,United States of America,,,BS,1,0,6/10/2029,1,10/13/2022,Unknown,-9,-9
+331,McDivitt,James ,A,,0,0,1,1,1,7,1,United States of America,,,BS,1,0,6/10/1929,1,10/13/2022,Unknown,-9,-9
 332,McMonagle,Donald ,R,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,5/14/1952,0,88/88/8888,None,0,0
+333,McNair,Ronald ,E,,1,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,10/21/1950,1,1/28/1986,Challenger,3,2
 334,Meade,Carl ,J,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,11/16/1950,0,88/88/8888,None,0,0
 335,Melnick,Bruce ,E,,0,0,1,1,3,5,1,United States of America,,,MS,2,0,12/5/1949,0,88/88/8888,None,0,0
 336,Melroy,Pamela ,A,,0,0,0,1,1,6,1,United States of America,,,MS,2,0,9/17/1961,0,88/88/8888,None,0,0
+337,Melvin,Leland ,D,,1,0,1,0,-8,-8,0,United States of America,,,MS,2,0,2/15/1964,0,88/88/8888,None,0,0
 338,Metcalf-Lindenburger,Dorothy ,M,,0,0,0,0,-8,-8,0,United States of America,,,BA,1,0,5/2/1975,0,88/88/8888,None,0,0
 339,Michel,Frank,C,,0,0,1,1,1,3,1,United States of America,,,PhD,3,0,6/5/1934,1,2/23/2015,Unknown,-9,-9
 340,Mitchell,Edgar ,D,,0,0,1,1,4,6,1,United States of America,,,ScD,3,0,9/17/1930,1,2/4/2016,Died at hospice after a short illness,1,-8
@@ -475,21 +381,23 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 380,Roosa,Stuart,A,,0,0,1,1,1,6,1,United States of America,,,BS,1,0,8/16/1933,1,12/12/1994,Pancreatitis,4,-8
 381,Ross,Jerry ,L,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,1/20/1948,0,88/88/8888,None,0,0
 382,Runco,Mario,J,Jr. ,0,0,1,1,4,5,0,United States of America,,,MS,2,0,1/26/1952,0,88/88/8888,None,0,0
-384,Schirra,Walter ,M,Jr. ,0,0,1,1,4,6,1,United States of America,,,BS,1,0,3/12/2023,1,5/3/2007,Mesothelioma; heart attack while having surgery,1,-8
+383,Satcher,Robert ,L,Jr. ,1,0,1,0,-8,-8,0,United States of America,,,MD/PhD,3,1,9/22/1965,0,88/88/8888,None,0,0
+384,Schirra,Walter ,M,Jr. ,0,0,1,1,4,6,1,United States of America,,,BS,1,0,3/12/1923,1,5/3/2007,Mesothelioma; heart attack while having surgery,1,-8
 385,Schmitt,Harrison ,H,,0,0,1,0,-8,-8,1,United States of America,,,PhD,3,0,7/3/1935,0,88/88/8888,None,0,0
 386,Schweickart,Russell ,L,,0,0,1,0,-8,-8,1,United States of America,,,MS,2,0,10/25/1935,0,88/88/8888,None,0,0
 387,Scobee,Francis ,R,,0,0,1,1,1,5,1,United States of America,,,BS,1,0,5/19/1939,1,1/28/1986,Challenger,3,2
 388,Scott,David ,R,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,6/6/1932,0,88/88/8888,None,0,0
+389,Scott,Winston ,E,,1,0,1,1,4,6,1,United States of America,,,MS,2,0,8/6/1950,0,88/88/8888,None,0,0
 390,Searfoss,Richard ,A,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,6/5/1956,0,88/88/8888,None,0,0
 391,Seddon,Margaret ,R,,0,0,0,0,-8,-8,0,United States of America,,,MD,3,1,11/8/1947,0,88/88/8888,None,0,0
-392,See,Elliot ,M,Jr. ,0,0,1,1,4,5,1,United States of America,,,MS,2,0,7/23/2027,1,2/28/1966,Plane crash - T38,3,1
+392,See,Elliot ,M,Jr. ,0,0,1,1,4,5,1,United States of America,,,MS,2,0,7/23/1927,1,2/28/1966,Plane crash - T38,3,1
 393,Sega,Ronald ,M,,0,0,1,1,1,6,1,United States of America,,,PhD,3,0,12/4/1952,0,88/88/8888,None,0,0
 394,Sellers,Piers ,J,,0,0,1,0,-8,-8,1,United States of America,,,PhD,3,0,4/11/1955,1,12/23/2016,Pancreatic cancer,1,-8
 395,Shaw,Brewster ,H,Jr. ,0,0,1,1,1,6,1,United States of America,,,MS,2,0,5/16/1945,0,88/88/8888,None,0,0
-396,Shepard,Alan ,B,Jr. ,0,0,1,1,4,7,1,United States of America,,,BS,1,0,11/18/2023,1,7/21/1998,Leukemia,1,-8
+396,Shepard,Alan ,B,Jr. ,0,0,1,1,4,7,1,United States of America,,,BS,1,0,11/18/1923,1,7/21/1998,Leukemia,1,-8
 397,Shepherd,William ,M,,0,0,1,1,4,6,0,United States of America,,,MS,2,0,7/26/1949,0,88/88/8888,None,0,0
 398,Shriver,Loren ,J,,0,0,1,1,1,6,1,United States of America,,,MS,2,0,9/23/1944,0,88/88/8888,None,0,0
-399,Slayton,Donald ,K,,0,0,1,1,1,4,1,United States of America,,,BS,1,0,3/1/2024,1,6/13/1993,Brain tumor/CNS lymphoma,1,-8
+399,Slayton,Donald ,K,,0,0,1,1,1,4,1,United States of America,,,BS,1,0,3/1/1924,1,6/13/1993,Brain tumor/CNS lymphoma,1,-8
 400,Smith,Michael ,J,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,4/30/1945,1,1/28/1986,Challenger,3,2
 401,Smith,Steven ,L,,0,0,1,0,-8,-8,0,United States of America,,,MS,2,0,12/30/1958,0,88/88/8888,None,0,0
 402,Spring,Sherwood ,C,,0,0,1,1,2,6,1,United States of America,,,MS,2,0,9/3/1944,0,88/88/8888,None,0,0
@@ -497,12 +405,13 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 404,Stafford,Thomas ,P,,0,0,1,1,1,9,1,United States of America,,,BS,1,0,9/17/1930,1,3/18/2024,Unknown,-9,-9
 405,Stefanyshyn-Piper,Heidemarie ,M,,0,0,0,1,4,6,0,United States of America,,,MS,2,0,2/7/1963,0,88/88/8888,None,0,0
 406,Stewart,Robert ,L,,0,0,1,1,2,7,1,United States of America,,,MS,2,0,8/13/1942,0,88/88/8888,None,0,0
-407,Stott,Nicole ,P,,0,0,1,0,-8,-8,1,United States of America,,,MS,2,0,11/19/1962,0,88/88/8888,None,0,0
+407,Stott,Nicole ,P,,0,0,0,0,-8,-8,1,United States of America,,,MS,2,0,11/19/1962,0,88/88/8888,None,0,0
 408,Sturckow,Frederick ,W,,0,0,1,1,5,6,1,United States of America,,,BS,1,0,8/11/1961,0,88/88/8888,None,0,0
 409,Sullivan,Kathryn ,D,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,10/3/1951,0,88/88/8888,None,0,0
 410,Swanson,Steven ,R,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,12/3/1960,0,88/88/8888,None,0,0
 411,Swigert,John ,L,Jr. ,0,0,1,1,1,-8,1,United States of America,,,MS,2,0,8/30/1931,1,12/27/1982,"Nasal tumor, mets to bone marrow and lungs",1,-8
-413,Crews,Albert,H,Jr.,0,0,1,1,1,6,1,United States of America,,,MS,2,0,3/23/2029,0,88/88/8888,None,0,0
+412,Tani,Daniel ,M,,3,-8,1,0,-8,-8,1,United States of America,,,MS,2,0,2/1/1961,0,88/88/8888,None,0,0
+413,Crews,Albert,H,Jr.,0,0,1,1,1,6,1,United States of America,,,MS,2,0,3/23/1929,0,88/88/8888,None,0,0
 414,Macleay,Lachlan,,,0,0,1,1,1,-9,1,United States of America,,,MBA,2,0,6/13/1931,0,88/88/8888,None,0,0
 415,Neubeck,Francis,,,0,0,1,1,1,-9,1,United States of America,,,MBA,2,0,4/11/1932,0,88/88/8888,None,0,0
 416,Abrahamson,James,A,,0,0,1,1,1,9,1,United States of America,,,MS,2,0,5/19/1933,0,88/88/8888,None,0,0
@@ -512,7 +421,7 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 420,Thomas,Donald ,A,,0,0,1,0,-8,-8,1,United States of America,,,PhD,3,0,5/6/1955,0,88/88/8888,None,0,0
 421,Thorne,Stephen ,D,,0,0,1,1,4,5,1,United States of America,,,BS,1,0,2/11/1953,1,5/24/1986,Plane crash - civilian,3,1
 422,Thornton,Kathryn ,C,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,8/17/1952,0,88/88/8888,None,0,0
-423,Thornton,William ,E,,0,0,1,1,1,-8,1,United States of America,,,MD,3,1,4/14/2029,0,88/88/8888,None,0,0
+423,Thornton,William ,E,,0,0,1,1,1,-8,1,United States of America,,,MD,3,1,4/14/1929,0,88/88/8888,None,0,0
 424,Thuot,Pierre ,J,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,5/19/1955,0,88/88/8888,None,0,0
 425,Truly,Richard ,H,,0,0,1,1,4,9,1,United States of America,,,BS,1,0,11/12/1937,1,2/27/2024,Unknown,-9,-9
 426,van Hoften,James ,D,,0,0,1,1,1,5,1,United States of America,,,PhD,3,0,6/11/1944,0,88/88/8888,None,0,0
@@ -536,6 +445,7 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 444,Williams,Jeffrey ,N,,0,0,1,1,2,6,1,United States of America,,,MS,2,0,1/18/1958,0,88/88/8888,None,0,0
 445,Williams,Sunita ,L,,0,0,0,1,4,6,1,United States of America,,,MS,2,0,9/19/1965,0,88/88/8888,None,0,0
 446,Wilmore,Barry ,E,,0,0,1,1,4,6,1,United States of America,,,MS,2,0,12/29/1962,0,88/88/8888,None,0,0
+447,Wilson,Stephanie ,D,,1,0,0,0,-8,-8,0,United States of America,,,MS,2,0,9/27/1966,0,88/88/8888,None,0,0
 448,Wisoff,Peter ,J,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,8/16/1958,0,88/88/8888,None,0,0
 449,Wolf,David ,A,,0,0,1,0,-8,-8,0,United States of America,,,MD,3,1,8/23/1956,0,88/88/8888,None,0,0
 450,Woodward,Neil ,W,III,0,0,1,1,4,5,1,United States of America,,,MA,2,0,7/26/1962,0,88/88/8888,None,0,0
@@ -552,6 +462,7 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 461,Aleksandrov,Aleksandr,P,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,2/20/1943,0,88/88/8888,None,0,0
 462,Artsebarsky,Anatoly,,,0,0,1,1,1,6,1,Ukraine,,,BS,1,0,9/9/1956,0,88/88/8888,None,0,0
 463,Atkov,Oleg,,,0,0,1,0,-8,-8,0,Russia,,,MD,3,1,5/5/1949,0,88/88/8888,None,0,0
+464,Aubakirov,Toktar,,,3,-8,1,1,1,7,1,Kazakhstan,,,BS,1,0,7/27/1946,0,88/88/8888,None,0,0
 465,Avdeyev,Sergei,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,1/1/1956,0,88/88/8888,None,0,0
 466,Balandin,Aleksandr,,,0,0,1,0,-8,-8,1,Russia,,,BS,1,0,7/30/1953,0,88/88/8888,None,0,0
 467,Baturin,Yuri,,,0,0,1,0,-8,-8,0,Russia,,,JD,3,0,6/12/1949,0,88/88/8888,None,0,0
@@ -560,7 +471,7 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 470,Bykovsky,Valery,,,0,0,1,1,1,7,1,Russia,,,PhD,3,0,8/2/1934,0,88/88/8888,None,0,0
 471,Dezhurov,Vladimir,N,,0,0,1,1,1,5,1,Russia,,,BS,1,0,7/30/1962,0,88/88/8888,None,0,0
 472,Dzhanibekov,Vladimir,,,0,0,1,1,1,7,1,Uzbekistan,,,BS,1,0,5/13/1942,0,88/88/8888,None,0,0
-473,Filipchenko,Anatoly,,,0,0,1,1,1,7,1,Russia,,,PhD,3,0,2/26/2028,0,88/88/8888,None,0,0
+473,Filipchenko,Anatoly,,,0,0,1,1,1,7,1,Russia,,,PhD,3,0,2/26/1928,0,88/88/8888,None,0,0
 474,Gidzenko,Yuri,,,0,0,1,1,1,6,1,Ukraine,,,BS,1,0,3/26/1962,0,88/88/8888,None,0,0
 475,Ivanchenkov,Aleksandr,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,9/28/1940,0,88/88/8888,None,0,0
 476,Ivanishin,Anatoli,,,0,0,1,1,1,6,1,Russia,,,MS,2,0,1/15/1969,0,88/88/8888,None,0,0
@@ -581,6 +492,7 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 491,Malenchenko,Yuri,,,0,0,1,1,1,6,1,Ukraine,,,MS,2,0,12/22/1961,0,88/88/8888,None,0,0
 492,Manakov,Gennadi,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,6/1/1950,0,88/88/8888,None,0,0
 493,Manarov,Musa,,,0,0,1,1,1,6,1,Azerbaijan,,,BS,1,0,3/22/1951,0,88/88/8888,None,0,0
+494,Musabayev,Talgat,,,3,-8,1,1,1,4,1,Kazakhstan,,,PhD,3,0,1/7/1951,0,88/88/8888,None,0,0
 495,Novitskiy,Oleg,,,0,0,1,1,1,5,1,Belarus,,,BS,1,0,10/12/1971,0,88/88/8888,None,0,0
 496,Onufriyenko,Yuri,,,0,0,1,1,1,6,1,Ukraine,,,MS,2,0,2/6/1961,0,88/88/8888,None,0,0
 497,Ovchinin,Aleksey,,,0,0,1,1,1,5,1,Russia,,,BS,1,0,9/28/1971,0,88/88/8888,None,0,0
@@ -596,7 +508,7 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 507,Savinykh,Viktor,,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,3/7/1940,0,88/88/8888,None,0,0
 508,Shargin,Yuri,,,0,0,1,1,1,5,1,Russia,,,BS,1,0,3/20/1960,0,88/88/8888,None,0,0
 509,Sharipov,Salizhan,,,0,0,1,1,1,2,1,Kyrgyzstan,,,BS,1,0,8/24/1964,0,88/88/8888,None,0,0
-510,Shatalov,Vladimir,,,0,0,1,1,1,1,1,Kazakhstan,,,PhD,3,0,12/8/2027,0,88/88/8888,None,0,0
+510,Shatalov,Vladimir,,,0,0,1,1,1,1,1,Kazakhstan,,,PhD,3,0,12/8/1927,0,88/88/8888,None,0,0
 511,Shkaplerov,Anton,,,0,0,1,1,1,6,1,Russia,,,BS,1,0,2/20/1972,0,88/88/8888,None,0,0
 512,Skripochka,Oleg,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,12/24/1969,0,88/88/8888,None,0,0
 513,Skvortsov,Aleksandr,A,Jr.,0,0,1,1,1,6,1,Russia,,,JD,3,0,5/6/1966,0,88/88/8888,None,0,0
@@ -652,9 +564,11 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 563,Zhukov,Sergei,A,,0,0,1,0,-8,-8,0,Russia,,,PhD,3,0,9/8/1956,0,88/88/8888,None,0,0
 564,Ponomaryova,Valentina,,,0,0,0,1,1,-8,0,Russia,,,PhD,3,0,9/18/1933,0,88/88/8888,None,0,0
 565,Soloviyova,Irina,,,0,0,0,1,1,6,0,Russia,,,PhD,3,0,9/6/1937,0,88/88/8888,None,0,0
+566,Aimbetov,Aydyn,,,3,-8,1,1,1,4,1,Kazakhstan,,,BS,1,0,7/27/1972,0,88/88/8888,None,0,0
 567,Andreyev,Boris,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,10/6/1940,0,88/88/8888,None,0,0
 568,Artemyev,Oleg,,,0,0,1,1,2,-8,0,Russia,,,BS,1,0,12/28/1972,0,88/88/8888,None,0,0
 569,Arzamazov,German,,,0,0,1,0,-8,-8,0,Russia,,,MD,3,1,3/9/1946,0,88/88/8888,None,0,0
+570,Aymakhanov,Mukhtar,,,3,-8,1,1,1,4,1,Kazakhstan,,,JD,3,0,1/1/1967,0,88/88/8888,None,0,0
 571,Babkin,Andrei,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,4/21/1969,0,88/88/8888,None,0,0
 572,Blinov,Oleg,,,0,0,1,0,-8,-8,0,Russia,,,BS,1,0,8/17/1978,0,88/88/8888,None,0,0
 573,Boroday,Aleksei,,,0,0,1,1,1,5,1,Russia,,,BS,1,0,7/28/1947,0,88/88/8888,None,0,0
@@ -737,8 +651,10 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 650,Zakharova,Tamara,,,0,0,0,0,-8,-8,0,Russia,,,BS,1,0,4/22/1952,0,88/88/8888,None,0,0
 651,Vande Hei,Mark,T,,0,0,1,1,2,5,0,United States of America,,,MS,2,0,11/10/1966,0,88/88/8888,None,0,0
 652,Wiseman,Gregory,R,,0,0,1,1,4,4,1,United States of America,,,MS,2,0,11/11/1975,0,88/88/8888,None,0,0
+653,Epps,Jeanette,J,,1,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,11/2/1970,0,88/88/8888,None,0,0
 654,Rubins,Kathleen,,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,10/14/1978,0,88/88/8888,None,0,0
 655,Cassada,Josh,A,,0,0,1,1,4,4,1,United States of America,,,PhD,3,0,7/18/1973,0,88/88/8888,None,0,0
+656,Glover,Victor,J,,1,0,1,1,4,5,1,United States of America,,,BS,1,0,4/30/1976,0,88/88/8888,None,0,0
 657,Hague,Tyler,N,,0,0,1,1,1,5,1,United States of America,,,MS,2,0,9/24/1975,0,88/88/8888,None,0,0
 658,Hammock,Christina,,,0,0,0,0,-8,-8,0,United States of America,,,MS,2,0,2/2/1979,0,88/88/8888,None,0,0
 659,Mann,Nicole,K,,0,0,0,1,5,5,1,United States of America,,,BS,1,0,6/27/1977,0,88/88/8888,None,0,0
@@ -760,14 +676,69 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 675,Kutryk,Joshua,,,0,0,1,1,1,5,1,Canada,,,MS,2,0,3/21/1982,0,88/88/8888,None,0,0
 676,Sidey-Gibbons,Jennifer,,,0,0,0,0,-8,-8,0,Canada,,,PhD,3,0,8/3/1988,0,88/88/8888,None,0,0
 677,Saint-Jacques,David,,,0,0,1,0,-8,-8,0,Canada,,,PhD/MD,3,1,1/6/1970,0,88/88/8888,None,0,0
+678,Cai,Xuzhe,,,3,-8,1,1,9,-9,1,China,,,Unknown,-9,-9,5/15/1976,0,88/88/8888,None,0,0
+679,Chai,Hongliang,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+680,Chen,Dong,,,3,-8,1,1,1,5,1,China,,,BS,1,0,12/12/1978,0,88/88/8888,None,0,0
+681,Chen,Quan,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,9/15/1963,0,88/88/8888,None,0,0
+682,Deng,Qingming,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,3/16/1966,0,88/88/8888,None,0,0
+683,Dong,Xiaohai,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+684,Du,Jincheng,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+685,Fang,Guojun,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+686,Fei,Junlong,,,3,-8,1,1,1,7,1,China,,,BS,1,0,5/5/1965,0,88/88/8888,None,0,0
+687,Hu,Zhanzi,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+688,Jing,Haipeng,,,3,-8,1,1,1,7,1,China,,,BS,1,0,10/24/1966,0,88/88/8888,None,0,0
+689,Li,Qinglong,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,8/15/1962,0,88/88/8888,None,0,0
+690,Li,Shichang,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+691,Liu,Boming,,,3,-8,1,1,1,7,1,China,,,BS,2,0,9/15/1966,0,88/88/8888,None,0,0
+692,Liu,Chongfu,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+693,Liu,Wang,,,3,-8,1,1,1,6,1,China,,,BS,1,0,3/15/1969,0,88/88/8888,None,0,0
+694,Liu,Yang,,,3,-8,0,1,1,4,1,China,,,BS,1,0,10/6/1978,0,88/88/8888,None,0,0
+695,Liu,Zhongyi,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+696,Lu,Xiangxiao,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+697,Ma,Zizhong,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+698,Meng,Senlin,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+699,Nie,Haisheng,,,3,-8,1,1,1,7,1,China,,,BS,1,0,10/13/1964,0,88/88/8888,None,0,0
+700,Pan,Zhanchun,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,10/29/1966,0,88/88/8888,None,0,0
+701,Shao,Zhijian,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+702,Tang,Hongbo,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
+703,Wang,Fuhe,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+704,Wang,Fuquan,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+705,Wang,Quanbo,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+706,Wang,Rongsen,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+707,Wang,Yaping,,,3,-8,0,1,1,-8,1,China,,,BS,1,0,1/27/1980,0,88/88/8888,None,0,0
+708,Wang,Zhiyue,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+709,Wu,Jie,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,10/15/1963,0,88/88/8888,None,0,0
+710,Yang,Liwei,,,3,-8,1,1,1,7,1,China,,,BS,1,0,6/21/1965,0,88/88/8888,None,0,0
+711,Ye,Guangfu,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
+712,Yu,Guilin,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+713,Zhai,Zhigang,,,3,-8,1,1,1,6,1,China,,,BS,1,0,11/10/1966,0,88/88/8888,None,0,0
+714,Zhang,Lu,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
+715,Zhang,Ruxiang,,,3,-8,0,-9,-9,-9,-9,China,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+716,Zhang,Xiaoguang,,,3,-8,1,0,-8,-8,1,China,,,BS,1,0,5/15/1968,0,88/88/8888,None,0,0
+717,Zhao,Chuandong,,,3,-8,1,1,1,-8,1,China,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
 718,Guidoni,Umberto,,,0,0,1,0,-8,-8,0,Italy,,,PhD,3,0,8/18/1954,0,88/88/8888,None,0,0
+719,Wakata,Koichi,,,3,-8,1,0,-8,-8,0,Japan,,,PhD,3,0,8/1/1963,0,88/88/8888,None,0,0
+720,Mohri,Mamoru,,,3,-8,1,0,-8,-8,0,Japan,,,PhD,3,0,1/29/1948,0,88/88/8888,None,0,0
+721,Doi,Takao,,,3,-8,1,0,-8,-8,0,Japan,,,PhD,3,0,9/18/1964,0,88/88/8888,None,0,0
+722,Mukai,Chiaki,,,3,-8,0,0,-8,-8,0,Japan,,,MD,3,1,5/6/1952,0,88/88/8888,None,0,0
+723,Noguchi,Soichi,,,3,-8,1,0,-8,-8,0,Japan,,,MS,2,0,4/15/1965,0,88/88/8888,None,0,0
+724,Furukawa,Satoshi,,,3,-8,1,0,-8,-8,0,Japan,,,MD/PhD,3,1,4/4/1964,0,88/88/8888,None,0,0
+725,Hoshide,Akihiko,,,3,-8,1,0,-8,-8,0,Japan,,,MS,2,0,12/28/1968,0,88/88/8888,None,0,0
+726,Yamazaki,Naoko,,,3,-8,0,0,-8,-8,0,Japan,,,MS,2,0,12/27/1970,0,88/88/8888,None,0,0
+727,Onishi,Takuya,,,3,-8,1,0,-8,-8,1,Japan,,,BS,1,0,12/22/1975,0,88/88/8888,None,0,0
+728,Yui,Kimiya,,,3,-8,1,1,1,5,1,Japan,,,BS,1,0,1/30/1970,0,88/88/8888,None,0,0
+729,Kanai,Norishige,,,3,-8,1,1,3,3,0,Japan,,,MD,3,1,12/5/1976,0,88/88/8888,None,0,0
 730,Barron,Kayla,J,,0,0,0,1,4,3,0,United States of America,,,MS,2,0,9/19/1987,0,88/88/8888,None,0,0
 731,Cardman,Zena,M,,0,0,0,0,-8,-8,0,United States of America,,,MS,2,0,10/26/1987,0,88/88/8888,None,0,0
+732,Chari,Raja,JV,,5,-8,1,1,1,6,1,United States of America,,,MS,2,0,6/24/1977,0,88/88/8888,None,0,0
 733,Dominick,Matthew,S,,0,0,1,1,4,4,1,United States of America,,,MS,2,0,12/7/1981,0,88/88/8888,None,0,0
 734,Hines,Bob,T,Jr.,0,0,1,1,1,1,1,United States of America,,,MS,2,0,1/11/1975,0,88/88/8888,None,0,0
 735,Hoburg,Warren,W,,0,0,1,0,-8,-8,1,United States of America,,,PhD,3,0,9/16/1985,0,88/88/8888,None,0,0
+736,Kim,Jonny,,,3,-8,1,1,4,3,0,United States of America,,,MD,3,1,2/5/1984,0,88/88/8888,None,0,0
+737,Moghbell,Jasmin,,,3,-8,0,1,5,8,1,United States of America,,,MS,2,0,6/24/1983,0,88/88/8888,None,0,0
 738,O'Hara,Loral,,,0,0,0,0,-8,-8,0,United States of America,,,MS,2,0,5/3/1983,0,88/88/8888,None,0,0
 739,Rubio,Francisco,C,,0,1,1,1,2,5,1,United States of America,,,MD,3,1,12/11/1975,0,88/88/8888,None,0,0
+740,Watkins,Jessica,A,,1,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,5/14/1988,0,88/88/8888,None,0,0
 741,Kutryk,Joshua,,,0,0,1,1,7,5,1,Canada,,,MS,2,0,3/21/1982,0,88/88/8888,None,0,0
 742,Sidey-Gibbons,Jennifer,AM,,0,0,0,0,-8,-8,0,Canada,,,PhD,3,0,8/3/1988,0,88/88/8888,None,0,0
 743,Kulin,Robb,M,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,12/7/1983,0,88/88/8888,None,0,0
@@ -778,10 +749,16 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 748,Hespanha,Victor,C,,0,1,1,0,-8,-8,0,Brazil,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 749,Cotton,Coby,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/17/1987,0,88/88/8888,None,0,0
 750,Sabry,Sara,,,0,0,0,0,-8,-8,0,Egypt,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+751,Mayers,Anastatia,,,1,0,0,0,-8,-8,0,Antigua and Barbuda,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 752,Gerardi,Kellie,,,0,0,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,2/16/1989,0,88/88/8888,None,0,0
 753,Bennett,Colin,,,0,0,1,0,-8,-8,0,United Kingdom,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+754,Bandla,Sirisha,,,5,-8,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,1/22/1987,0,88/88/8888,None,0,0
 755,Isaacman,Jared,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,2/11/1983,0,88/88/8888,None,0,0
+756,Arceneaux,Hayley,,,1,0,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,12/4/1991,0,88/88/8888,None,0,0
 757,Shuttleworth,Mark,,,0,0,1,0,-8,-8,0,South Africa,,,Unknown,-9,-9,9/18/1973,0,88/88/8888,None,0,0
+758,Ansari,Anousheh,,,6,-8,0,0,-8,-8,0,Iran,United States of America,,Unknown,-9,-9,9/12/1966,0,88/88/8888,None,0,0
+759,Hirano,Yozo,,,3,-8,1,0,-8,-8,0,Japan,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+760,Barnawi,Rayyanah,,,3,-8,0,0,-8,-8,0,Saudi Arabia,,,Unknown,-9,-9,1/1/1990,0,88/88/8888,None,0,0
 761,Boshuizen,Chris,,,0,0,1,0,-8,-8,0,Australia,,,Unknown,-9,-9,6/16/1979,0,88/88/8888,None,0,0
 762,Powers,Audrey,,,0,0,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,2/1/1976,0,88/88/8888,None,0,0
 763,Taylor,Dylan,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,10/23/1970,0,88/88/8888,None,0,0
@@ -790,6 +767,7 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 766,Robinson,Jaison,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,9/25/1980,0,88/88/8888,None,0,0
 767,O'Brien,Vanessa,,,0,0,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,12/2/1964,0,88/88/8888,None,0,0
 768,Nash,Timothy,,,0,0,1,0,-8,-8,0,South Africa,United Kingdom,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+769,Salim,Namira,,,5,-8,0,0,-8,-8,0,Pakistan,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 770,Rosano,Ron,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 771,Stern,Alan,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,11/22/1957,0,88/88/8888,None,0,0
 772,Maisonrouge,Ketty,P,,0,0,0,0,-8,-8,0,Italy,France,US,Unknown,-9,-9,7/16/1956,0,88/88/8888,None,0,0
@@ -817,15 +795,18 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 796,Strahan,Michael,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,11/21/1971,0,88/88/8888,None,0,0
 797,Allen,Marty,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/2/1953,0,88/88/8888,None,0,0
 798,Hagle,Sharon,,,0,0,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,3/1/1949,0,88/88/8888,None,0,0
+799,Lai,Gary,,,3,-8,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/2/1973,0,88/88/8888,None,0,0
 800,Harding,Hamish,,,0,0,1,0,-8,-8,0,United Kingdom,,,Unknown,-9,-9,6/24/1964,0,88/88/8888,None,0,0
 801,Ferreira,Mario,,,0,1,1,0,-8,-8,0,Portugal,,,Unknown,-9,-9,1/15/1968,0,88/88/8888,None,0,0
 802,Young,Steve,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+803,Schahaff,Keisha,,,1,0,0,0,-8,-8,0,Antigua and Barbuda,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 804,Beattie,Trevor,,,0,0,1,0,-8,-8,0,United Kingdom,,,Unknown,-9,-9,12/24/1956,0,88/88/8888,None,0,0
 805,Vaughn,Robie,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/2/1956,0,88/88/8888,None,0,0
 806,Haider,Franz,,,0,0,1,0,-8,-8,0,Austria,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 807,Branson,Richard,,,0,0,1,0,-8,-8,0,United Kingdom,,,Unknown,-9,-9,7/18/1950,0,88/88/8888,None,0,0
 808,Garriott,Richard,,,0,0,1,0,-8,-8,0,United Kingdom,United States of America,,Unknown,-9,-9,7/4/1961,0,88/88/8888,None,0,0
 809,Laliberte,Guy,,,0,0,1,0,-8,-8,0,Canada,,,Unknown,-9,-9,9/2/1959,0,88/88/8888,None,0,0
+810,Maezawa,Yusaku,,,3,-8,1,0,-8,-8,0,Japan,,,Unknown,-9,-9,11/22/1975,0,88/88/8888,None,0,0
 811,Connor,Larry,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,1/7/1950,0,88/88/8888,None,0,0
 812,Shoffner,John,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,6/25/1958,0,88/88/8888,None,0,0
 813,Nield,George,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/31/1950,0,88/88/8888,None,0,0
@@ -833,26 +814,36 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 815,Kelly,Clint,,III,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/2/1941,0,88/88/8888,None,0,0
 816,Villadei,Walter,,,0,0,1,0,-8,-8,0,Italy,,,Unknown,-9,-9,4/29/1974,0,88/88/8888,None,0,0
 817,Sembroski,Christopher,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,8/28/1979,0,88/88/8888,None,0,0
+818,Stibbe,Eytan,,,-9,0,1,0,-8,-8,0,Israel,,,Unknown,-9,-9,1/12/1958,0,88/88/8888,None,0,0
+819,AlQarni,Ali,,,2,-8,1,0,-8,-8,0,Saudi Arabia,,,Unknown,-9,-9,3/1/1992,0,88/88/8888,None,0,0
+820,Gezeravci,Alper,,,7,-8,1,0,-8,-8,0,Turkey,,,Unknown,-9,-9,12/2/1979,0,88/88/8888,None,0,0
 821,Goodwin,Jon,,,0,0,1,0,-8,-8,0,United Kingdom,,,Unknown,-9,-9,6/16/1943,0,88/88/8888,None,0,0
 822,Reynard,Adrian,,,0,0,1,0,-8,-8,0,United Kingdom,,,Unknown,-9,-9,3/23/1951,0,88/88/8888,None,0,0
 823,Baxter,Ken,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,5/15/1949,0,88/88/8888,None,0,0
 824,Carlucci,Pantaleone,,,0,0,1,0,-8,-8,0,Italy,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 825,Landolfi,Angelo,,,0,0,1,0,-8,-8,0,Italy,,,Unknown,-9,-9,6/23/1974,0,88/88/8888,None,0,0
+826,Atasever,Tuva,C,,7,-8,1,0,-8,-8,0,Turkey,,,Unknown,-9,-9,8/12/1992,0,88/88/8888,None,0,0
 827,Manenti,Gorgio,,,0,0,1,0,-8,-8,0,Italy,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 828,Pergament,Irving,,,0,0,1,0,-8,-8,0,United States of America,Israel,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+829,Sadhwani,Andy,,,5,-8,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/2/1979,0,88/88/8888,None,0,0
+830,Janjua,Jameel,,,5,-8,1,0,-8,-8,0,United States of America,Canada,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 831,Poteet,Scott,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,12/7/1973,0,88/88/8888,None,0,0
 832,Gillis,Sarah,,,0,0,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,1/1/1994,0,88/88/8888,None,0,0
+833,Menon,Anna,,,0,-9,0,0,-8,-8,0,United States of America,,,MS,2,0,12/24/1985,0,88/88/8888,None,0,0
 834,Angel,Mason,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/2/1996,0,88/88/8888,None,0,0
 835,Chiron,Sylvain,,,0,0,1,0,-8,-8,0,France,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 836,Dwight,Ed,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,9/9/1933,0,88/88/8888,None,0,0
 837,Hess,Kenneth,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,1/22/1953,0,88/88/8888,None,0,0
 838,Schaller,Carol,,,0,0,0,0,-8,-8,0,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+839,Thotakura,Gopichand,,,5,-8,1,0,-8,-8,0,India,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 840,Elrick,Nicolina,,,0,0,0,0,-8,-8,0,United Kingdom,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 841,Ferl,Rob,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,7/2/1954,0,88/88/8888,None,0,0
 842,Grin,Eugene,,,0,0,1,0,-8,-8,0,Ukraine,,,Unknown,-9,-9,7/2/1958,0,88/88/8888,None,0,0
+843,Jahangir,Eiman,,,6,-8,1,0,-8,-8,0,United States of America,Iran,,MD,3,1,99/99/9999,0,88/88/8888,None,0,0
 844,Kitchen,Karsen,,,0,0,1,0,-8,-8,0,United States of America,,,High School,0,0,99/99/9999,0,88/88/8888,None,0,0
-846,Phillips,Robert,W,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,1/21/2029,1,2/26/2013,Unknown,-9,-9
-847,Stevenson,Robert,E,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,1/15/2021,1,8/12/2001,Unknown,-9,-9
+845,Rabin,Ephraim,,,-9,0,1,0,-8,-8,0,United States of America,Israel,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+846,Phillips,Robert,W,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,1/21/1929,1,2/26/2013,Unknown,-9,-9
+847,Stevenson,Robert,E,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,1/15/1921,1,8/12/2001,Unknown,-9,-9
 848,Wood,Robert,J,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,6/26/1957,1,2/19/2009,Unknown,-9,-9
 849,Jarvis,Gregory,B,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,8/24/1944,1,1/28/1986,Challenger,3,2
 850,McAuliffe,Christa,,,0,0,0,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,9/2/1948,1,1/28/1986,Challenger,3,2
@@ -861,9 +852,10 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 853,Lampton,Michael,L,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,3/1/1941,1,6/9/2023,Unknown,-9,-9
 854,Wright,Keith,,,0,0,1,1,1,-8,0,United States of America,,,BS,1,0,8/31/1947,0,88/88/8888,None,0,0
 855,Johnston,Mary ,,,0,0,0,0,-8,-8,0,United States of America,,,PhD ,3,0,9/17/1945,0,88/88/8888,None,0,0
+856,Trinh,Eugene,H,,3,-8,1,0,-8,-8,-9,United States of America,Vietnam,France,PhD,3,0,9/14/1950,0,88/88/8888,None,0,0
 857,Chretien,Jean-Loup,,,0,0,1,1,7,7,1,France,,,MS,2,0,8/20/1938,0,88/88/8888,None,0,0
+858,Al-Bassam,Abdulmohsen,,,2,-8,1,1,8,0,1,Saudi Arabia,,,BS,1,0,12/12/1948,0,88/88/8888,None,0,0
 859,Simon,George,,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,4/22/1934,0,88/88/8888,None,0,0
-860,Phillips,Robert,W,,0,0,1,-8,-9,-9,-9,United States of America,,,PhD,3,0,1/21/2029,1,2/26/2013,Unknown,-9,-9
 861,Chappell,Charles,R,,0,0,1,-8,-9,-9,-9,United States of America,,,PhD,3,0,1/30/1943,0,88/88/8888,None,0,0
 862,Prahl,Joseph ,M,,0,0,1,-8,-9,-9,-9,United States of America,,,PhD,3,0,3/30/1943,1,4/19/2018,Unknown,-9,-9
 863,Sacco,Albert,,,0,0,1,-8,-9,-9,0,United States of America,,,PhD,3,0,5/3/1949,0,88/88/8888,None,0,0
@@ -881,8 +873,10 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 875,Payton,Gary,,,0,0,1,,-9,-9,1,United States of America,,,MS,2,0,6/20/1948,0,88/88/8888,None,0,0
 876,Garn,Jake,,,0,0,1,-8,-9,-9,0,United States of America,,,BS,1,0,10/12/1932,0,88/88/8888,None,0,0
 877,van den Berg,Lodewijk,,,0,0,1,0,-8,-8,0,Netherlands,United States of America,,PhD,3,0,3/24/1932,1,10/16/2022,Unknown,-9,-9
-879,Baudry,Patrick,,,0,0,1,1,-9,-9,1,France,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-881,Anton,Loren,,,0,0,1,-8,-9,-9,0,United States of America,,,PhD,3,0,3/7/1936,0,88/88/8888,None,0,0
+878,Wang,Taylor,,,3,-8,1,-8,-9,-9,0,China,,,PhD,3,0,6/16/1940,0,88/88/8888,None,0,0
+879,Baudry,Patrick,,,0,0,1,1,-9,-9,1,France,,,Unknown,-9,-9,3/6/1946,0,88/88/8888,None,0,0
+880,Al Saud,Sultan bin Salman,,,2,-8,1,1,8,6,1,Saudi Arabia,,,MS,2,0,6/27/1956,0,88/88/8888,None,0,0
+881,Acton,Loren,,,0,0,1,-8,-9,-9,0,United States of America,,,PhD,3,0,3/7/1936,0,88/88/8888,None,0,0
 882,Bartoe,John-David,F,,0,0,1,1,-9,-9,0,United States of America,,,PhD,3,0,11/17/1944,0,88/88/8888,None,0,0
 883,Pailes,William,,,0,0,1,1,-9,-9,1,United States of America,,,MS,2,0,6/26/1952,0,88/88/8888,None,0,0
 884,Furrer,Reinhard,,,0,0,1,-8,-9,-9,-9,Germany,,,PhD,3,0,11/25/1940,1,9/9/1995,Unknown,-9,-9
@@ -903,27 +897,6 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 899,Buckey,Jay,C,,0,0,1,0,-8,-8,0,United States of America,,,MD,3,1,6/6/1956,0,88/88/8888,None,0,0
 900,Pawelczyk,James,A,,0,0,1,0,-8,-8,0,United States of America,Poland,,PhD,3,0,9/20/1960,0,88/88/8888,None,0,0
 901,Ramon,Ilan,,,0,0,1,0,-8,-8,0,Israel,United Statess,,BS,1,0,99/99/9999,1,2/1/2003,Unknown,-9,-9
-931,Calandrelli,Emily,,,0,0,0,0,-8,-8,0,United States of America,,,MS,2,0,5/18/1997,0,88/88/8888,None,0,0
-932,Litteral,Austin,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-933,Russell,James,,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-934,Wolfond,Henry,,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-935,Calleja,Jesus,,,0,1,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-937,Scott,Richard,,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-938,Hyde,Elaine,C,,0,0,0,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-939,Wilson,Russell,,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-943,Perry,Katy,,,0,0,0,0,-8,-8,-9,United States of America,,,High School,0,0,10/25/1984,0,88/88/8888,None,0,0
-944,Flynn,Kerianne,,,0,0,0,0,-8,-8,-9,United States of America,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
-945,Sanchez,Lauren,,,0,1,0,0,-8,-8,1,,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
-946,Ayers,Nichole,,,0,0,0,1,1,-9,1,United States of America,,,MS,2,0,12/13/1988,0,88/88/8888,None,0,0
-947,Berrios Roldan,Marcos Gabiel,,,0,1,1,1,-9,-9,1,United States of America,,,PhD,3,0,1/15/1984,0,88/88/8888,None,0,0
-948,Birch,Christina,,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,11/17/1986,0,88/88/8888,None,0,0
-949,Burnham,Deniz,,,0,0,0,1,4,3,-9,United States of America,,,MS,2,0,10/1/1985,0,88/88/8888,None,0,0
-950,Delaney,Luke,,,0,0,1,1,5,4,1,United States of America,,,MS,2,0,8/25/1979,0,88/88/8888,None,0,0
-952,Hathaway,Jack,,,0,0,1,1,4,-9,1,United States of America,,,MS,2,0,5/10/1982,0,88/88/8888,None,0,0
-955,Wittner,Jessica,,,0,0,0,1,4,4,1,United States of America,,,MS,2,0,3/29/1983,0,88/88/8888,None,0,0
-956,Kincheloe,Iven,,,0,0,1,1,1,-8,1,United States of America,,,Unknown,-9,-9,99/99/9999,1,7/1/1958,crash of an F-104A (Lockheed F-104A-10-LO s/n 56-772) at Edwards Air Force Base,3,1
-818,Stibbe,Eytan,,,-9,0,1,0,-8,-8,0,Israel,,,Unknown,-9,-9,1/12/1958,0,88/88/8888,None,0,0
-845,Rabin,Ephraim,,,-9,0,1,0,-8,-8,0,United States of America,Israel,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 902,Casserino,Frank,J,,-9,-9,-9,-9,-9,-9,-9,Unknown,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 903,DeTroye,Jeffrey,E,,-9,-9,-9,-9,-9,-9,-9,Unknown,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 904,Hamel,Michael,A,,-9,-9,-9,-9,-9,-9,-9,Unknown,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
@@ -953,3 +926,40 @@ PersonID,PersonLName,PersonFName,PersonMI,Title,Race,Ethnicity,Sex,Military,Bran
 928,DeArmond,Frank,M,,-9,-9,-9,-9,-9,-9,-9,Unknown,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 929,Staib,David,P,Jr.,-9,-9,-9,-9,-9,-9,-9,Unknown,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
 930,Stevens,Theresa,M,,-9,-9,-9,-9,-9,-9,-9,Unknown,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+931,Calandrelli,Emily,,,0,0,0,0,-8,-8,0,United States of America,,,MS,2,0,5/18/1997,0,88/88/8888,None,0,0
+932,Litteral,Austin,,,0,0,1,0,-8,-8,0,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+933,Russell,James,,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+934,Wolfond,Henry,,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+935,Calleja,Jesus,,,0,1,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+936,Shah,Tushar,,,5,-8,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+937,Scott,Richard,,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+938,Hyde,Elaine,C,,0,0,0,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+939,Wilson,Russell,,,0,0,1,0,-8,-8,-9,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+940,Bowe,Aisha,,,5,-8,0,0,-8,-8,-9,United States of America,,,MS,2,0,11/4/1986,0,88/88/8888,None,0,0
+941,Nguyen,Amanda,,,3,-8,0,0,-8,-8,-9,United States of America,Korea,,BA,1,0,10/10/1991,0,88/88/8888,None,0,0
+942,King,Gayle,,,1,0,0,0,-8,-8,-9,United States of America,,,BS,1,0,12/28/1954,0,88/88/8888,None,0,0
+943,Perry,Katy,,,0,0,0,0,-8,-8,-9,United States of America,,,High School,0,0,10/25/1984,0,88/88/8888,None,0,0
+944,Flynn,Kerianne,,,0,0,0,0,-8,-8,-9,United States of America,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
+945,Sanchez,Lauren,,,0,1,0,0,-8,-8,1,United States of America,,,Unknown,-9,-9,99/99/9999,0,88/88/8888,None,0,0
+946,Ayers,Nichole,,,0,0,0,1,1,-9,1,United States of America,,,MS,2,0,12/13/1988,0,88/88/8888,None,0,0
+947,Berrios Roldan,Marcos Gabiel,,,0,1,1,1,-9,-9,1,United States of America,,,PhD,3,0,1/15/1984,0,88/88/8888,None,0,0
+948,Birch,Christina,,,0,0,0,0,-8,-8,0,United States of America,,,PhD,3,0,11/17/1986,0,88/88/8888,None,0,0
+949,Burnham,Deniz,,,0,0,0,1,4,3,-9,United States of America,,,MS,2,0,10/1/1985,0,88/88/8888,None,0,0
+950,Delaney,Luke,,,0,0,1,1,5,4,1,United States of America,,,MS,2,0,8/25/1979,0,88/88/8888,None,0,0
+951,Douglas,Andre,,,1,0,1,1,3,-9,0,United States of America,,,PhD,3,-9,12/11/1985,0,88/88/8888,None,0,0
+952,Hathaway,Jack,,,0,0,1,1,4,-9,1,United States of America,,,MS,2,0,5/10/1982,0,88/88/8888,None,0,0
+953,Menon,Anil,,,5,-8,1,1,1,-9,0,United States of America,,,MD,3,1,10/5/1976,0,88/88/8888,None,0,0
+954,Williams,Christopher,,,1,0,1,0,-8,-8,-8,United States of America,,,PhD,3,0,10/23/1983,0,88/88/8888,None,0,0
+955,Wittner,Jessica,,,0,0,0,1,4,4,1,United States of America,,,MS,2,0,3/29/1983,0,88/88/8888,None,0,0
+956,Kincheloe,Iven,,,0,0,1,1,1,-8,1,United States of America,,,Unknown,-9,-9,99/99/9999,1,7/1/1958,crash of an F-104A (Lockheed F-104A-10-LO s/n 56-772) at Edwards Air Force Base,3,1
+957,Bailey,Ben,,,-9,-9,1,1,2,-9,1,United States of America,,,BS,1,0,99/99/9999,0,88/88/8888,None,0,0
+958,Edgar,Lauren,,,-9,-9,0,0,-8,-8,0,United States of America,,,PhD,3,0,99/99/9999,0,88/88/8888,None,0,0
+959,Fuhrmann,Adam,,,-9,-9,1,1,1,4,1,United States of America,,,MS,2,0,99/99/9999,0,88/88/8888,None,0,0
+960,Jones,Cameron,,,-9,-9,1,1,1,4,1,United States of America,,,MS,2,0,99/99/9999,0,88/88/8888,None,0,0
+961,Kubo,Yuri,,,-9,-9,1,0,-8,-8,0,United States of America,,,MS,2,0,99/99/9999,0,88/88/8888,None,0,0
+962,Lawler,Rebecca,,,-9,-9,0,1,4,4,1,United States of America,,,MS,2,0,99/99/9999,0,88/88/8888,None,0,0
+963,Muller,Imelda,,,-9,-9,0,1,4,3,0,United States of America,,,MD,3,1,99/99/9999,0,88/88/8888,None,0,0
+964,Overcash,Erin,,,-9,-9,0,1,4,4,1,United States of America,,,MS,2,0,99/99/9999,0,88/88/8888,None,0,0
+965,Spies,Katherine,,,-9,-9,0,1,5,-9,1,United States of America,,,MS,2,0,99/99/9999,0,88/88/8888,None,0,0
+966,Crouch,Roger,,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,9/2/1940,0,88/88/8888,None,0,0
+967,Linteris,Gregory,,,0,0,1,0,-8,-8,0,United States of America,,,PhD,3,0,10/4/1957,0,88/88/8888,None,0,0
