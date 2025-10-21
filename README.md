@@ -4,7 +4,7 @@ ASPA is a comprehensive dataset of astronauts and spaceflight participants from 
 
 This database was constructed and validated through a formal process described in the following publication:
 
-> Kanikkannan L, Hogan K, Reynolds RJ. Construction of the Astronaut and Spaceflight Participant Archive (ASPA): A Public Database for Human Spaceflight Research. *Journal Name*. 2025. DOI: [Insert Article DOI]
+> Kanikkannan L, Hogan K, Reynolds RJ. The Astronaut and Spaceflight Participant Archive: A Database for Human Health Research in Spaceflight. *Submitted to* Scientific Data. 2025. DOI: 
 
 ## Citation
 
@@ -12,11 +12,11 @@ If you use ASPA in your work, please cite both the dataset and the methods paper
 
 1. **Primary citation (for academic use):**
 
-> Kanikkannan L, Hogan K, Reynolds RJ. Construction of the Astronaut and Spaceflight Participant Archive (ASPA): A Public Database for Human Spaceflight Research. *Journal Name*. 2025. DOI: [Insert Article DOI]
+> Kanikkannan L, Hogan K, Reynolds RJ. The Astronaut and Spaceflight Participant Archive: A Database for Human Health Research in Spaceflight. *Submitted to* Scientific Data. 2025. DOI: 
 
 2. **Supplemental citation (for data use):**
 
-> Kanikkannan L, Hogan K, Reynolds RJ. Astronaut and Spaceflight Participant Archive (ASPA) [dataset]. 2025. Open Data Commons Attribution License (ODC-By 1.0). DOI: [Zenodo DOI]
+> Kanikkannan L, Hogan K, Reynolds RJ. Astronaut and Spaceflight Participant Archive (ASPA) [dataset]. 2025. Open Data Commons Attribution License (ODC-By 1.0). DOI: 
 
 ## License
 
